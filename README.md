@@ -7,18 +7,19 @@ After having Willie complete some work for a family member I found out that this
 
 His business is unique as he offers a “turnkey” solution. So instead of customers hiring a builder, plumber, electrician etc, Willie can come in and project managed the development as he has his own team of people covering all the areas required for construction. This takes a huge amount of stress off the customer. 
 
-Normally companies would have a photo gallery of previous work but we all know that some of these companies download library images for their website, hence why there is no photo gallery of previous work on the website. Willie prefers customers to visit customers and see the work for themselves. In most cases, this is how he gets new business, people see his work and contact him. 
+Normally companies would have a photo gallery of previous work but we all know that some of these companies download library images for their website, hence why there is no photo gallery of previous work on the website. Willie prefers customers to visit customers and see the work for themselves. In most cases, this is how he gets new business, people seeing his work and then they contact him. 
 
-So the website is purely for customer who just want to get a ball park figure regarding costs and then they can decide if they want to move forward after Willie has given them the quote. In most cases, this is what people want to know i.e. this is what I want, how much will it cost me?
+So the website is purely for customers who just want to get a ball park figure regarding costs. Then they can decide if they want to move forward after Willie has given them the quote. In most cases, this is what people want to know i.e. this is what I want, how much will it cost me?
 
 The business goals of this website are:
+
 -   To give people the option to request a quote without phoning Willie and taking up his time
 -   The give customers an uncluttered, easy to use and graphically pleasing website experience
--   To allow customer to request for quotes 24/7 and to also request information regarding previous work
+-   To allow customer to request for quotes 24/7 and to also request information regarding         previous work
 
 The customer goals of this website are:
 
--   Searching for a builing compant that can offer a “turnkey” solution for their project.
+-   Searching for a building company that can offer a “turnkey” solution for their project.
 -   Clear easy navigation.
 -   Information that they are members of the builders & tradesman Guild for peace of mind
 
