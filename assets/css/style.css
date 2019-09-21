@@ -57,3 +57,37 @@ This is the CSS control for the top bar
     padding: 5px;
 } 
 
+/* 
+============================================================================================
+This is the CSS control for the menu bar 
+============================================================================================
+*/ 
+
+.navbar-custom {
+    background-color: #fff;
+     }
+     
+    .uppercase {
+        text-transform: uppercase;
+    }
+    
+    .general-sub {
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        color: #525252;
+    }
+    
+    li .nav-item .mr-2:active {
+        color: #ffcd00;
+     }
+    
+    
+    .navbar-nav li a h6:hover  {
+        color: #ffcd00
+     }
+     
+    .homeyellow {
+       color: #ffcd00;
+     } 
+     
+    
