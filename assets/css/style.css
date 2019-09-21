@@ -24,6 +24,15 @@ This is the CSS control for the top bar
     padding: 0;
     font-weight:bold;
     }
+
+.col-sm-3 {
+     padding-left: 0;
+     padding-right: 0;
+    }
+
+.col-sm-3 p {
+    margin-top: 17px;
+}
     
 .bg-light {
     background-color: #fff!important;
@@ -55,7 +64,7 @@ This is the CSS control for the top bar
 }
 
 #nav-details {
-    padding: 15px;
+    padding: 0 40px 0 0;
 } 
 
 /* 
