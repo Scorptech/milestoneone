@@ -17,7 +17,7 @@ body, html {
 This is the CSS control for the top bar 
 ============================================================================================
 */ 
-.topbar  {
+.container-fluid  {
     background-color: #525252;
     color: #fafafa; 
     margin: 0;
