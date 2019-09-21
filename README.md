@@ -1,4 +1,4 @@
-                                       https://github.com/Scorptech/MilestoneOne
+You can check out my milestone at -   https://github.com/Scorptech/MilestoneOne
 
 
 The idea for this mock up website came about when speaking a builder that has been doing work for my family over the last few years.  The builders name is “Willie” and he is highly recommended by everyone as his workmanship and project management skills have always been spot on, hence why he is always in demand.
