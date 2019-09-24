@@ -282,13 +282,15 @@ This is for the next project banner
 ============================================================================================
 */ 
 
-.next-project {
-    Background-color: #1e2126;
-    color: white;
-    font-family: "Roboto", sans-serif;
-    font-size: 30px;
-    padding: 20px;
-    }
-
-
+<!--Banner Advert Section-->
+<div class="container-fluid banner-advert">
+<div class="row">
+    <div class="col-sm-12 col-md-8">
+	Looking for a quality and affordable constructor for your next project?
+	</div>
+	<div class="col-sm-12 col-md-4">
+	<button class="btn btn-lg btn--cta btn--yellow" data-toggle="modal" data-target="#requestaquote">Request A Quote</button>
+	</div>
+  </div>
+</div>	
 
