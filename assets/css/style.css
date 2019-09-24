@@ -32,18 +32,6 @@ This is the CSS control for the top bar
     margin-top: 17px;
 }
 
-.topbar .col-number {
-    margin-top: 17px;
-}
-
-.topbar .col-address {
-    margin-top: 17px;
-}
-
-
-.topbar .col-hours {
-    margin-top: 17px;
-}
 
 
 .bg-light {
@@ -243,15 +231,33 @@ This is the CSS control for the Let Us Help You section
 ============================================================================================
 */ 
 
-.container-fluid p {
-    margin-top: 0;
-    margin-bottom: 0rem;
+.card-image {
+    margin-bottom: 0;
+    background: url('../../assets/images/work-bg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
 }
 
+.fixed-img h1 {
+    color: #ffcd00;
+    font-weight: bold;
+    text-align:center;
+}
 
-
-
-
+.header {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: white;
+}
 
 
 
