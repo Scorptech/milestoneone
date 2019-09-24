@@ -365,8 +365,11 @@ footer {
 
 #footer-details {
     padding: 20px;
+   }
+
+#footer-detail .row {
     background-color: #525252;
-}
+    }
 
 
 .general-sub-footer {
