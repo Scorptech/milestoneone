@@ -105,18 +105,21 @@ The Contact page features a **contact form**, which requests client name and ema
 -   Header Navigation Bar - Exists on [every page](https://scorptech.github.io/milestoneone/index.html) 
     and allows all users to easily navigate all the website's pages and find what they are looking for quickly.
 
--   Footer Copyright Info - Exists on [every page](https://github.com/AJGreaves/                   portrait-artist/blob/index.html) and protects business       copyright.
+-   Footer Copyright Info - Exists on [every page](https://scorptech.github.io/milestoneone/index.html/
+    Protects business copyright.
 
--   Footer Social Icons - Exist on [every page](https://github.com/AJGreaves/portrait-artist/      blob/index.html) and allows all users to access the social platforms that the artist uses.
--   Call to Action Buttons - Exist on [every page](https://github.com/AJGreaves/                   portrait-artist/blob/index.html) and guide potential clients through the process of            viewing artwork, learning about pricing and the order process, and finally making first        contact for their order.
--   [Promotional Video](https://github.com/AJGreaves/portrait-artist/blob/index.html) - Allows     potential clients to connect with the artist, see her working in the studio and view some      of her work. Creates connection and emotional response.
--   [About Page](https://github.com/AJGreaves/portrait-artist/blob/master/about.html) - Allows     potential clients to connect with the artist without overloading them with information.
--   [Gallery Page](https://github.com/AJGreaves/portrait-artist/blob/master/gallery.html) -        Allows all visitors to the website to view thumbnail images of the artist's work. Each         thumbnail can be clicked to open an individual fancybox viewer.
--   [Fancybox Viewer](https://github.com/AJGreaves/portrait-artist/blob/master/gallery.html) -     Allows potential clients on the Gallery page to view the artist's work in more detail, to      move to the next image, previous image or return to the gallery.
--   [Pricing Tables](https://github.com/AJGreaves/portrait-artist/blob/master/pricing) - Allow     potential clients to understand the pricing of custom artwork by structuring it in an          logical way.
--   [How to Order Steps Guide](https://github.com/AJGreaves/portrait-artist/blob/master/           how-to-order.html) - Allows potential clients to understand the steps involved in ordering     their artwork.
--   [Contact Form](https://github.com/AJGreaves/portrait-artist/blob/master/contact.html) -        Allows potential clients to ask questions, and/or make the first step in their ordering        process.
--   [Upload option](https://github.com/AJGreaves/portrait-artist/blob/master/contact.html) on      Contact form - Allows clients to upload a photograph they would like the artist to use for     their custom portrait.
+-   Footer Social Icons - Exist on [every page](https://scorptech.github.io/milestoneone/index.html)
+    and allows all users to access the social platforms that the artist uses.
+
+-   Request A Quote button - Exist on [every page](https://scorptech.github.io/milestoneone/index.html)
+    which enables the customer to request a quote for work that they need carrying out.
+
+-   [The Team](https://scorptech.github.io/milestoneone/theteam.html)) 
+    Allows potential clients to see the staff and who is involved in the company.
+
+-   [Contact Form](https://scorptech.github.io/milestoneone/theteam.html) 
+    Allows potential clients to ask questions, and/or make the first step with their queries.
+
 
 
 ### Features to Implement in future
