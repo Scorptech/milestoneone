@@ -18,7 +18,7 @@ This is the CSS control for the top bar
 ============================================================================================
 */ 
 .container-fluid  {
-    background-color: #525252;
+    /*background-color: #525252;*/
     color: #fafafa; 
     margin: 0;
     padding: 0;
