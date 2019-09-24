@@ -179,3 +179,64 @@ This is for the buttons
     color: black;
 }
     
+/* 
+============================================================================================
+This is for the next project banner  
+============================================================================================
+*/ 
+
+.next-project {
+    Background-color: #1e2126;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    }
+
+
+
+
+
+
+/* 
+============================================================================================
+This is for the data section   
+============================================================================================
+*/ 
+
+.data-container {
+    Background-color: #fff;
+    paddding: 100px;
+    
+ }
+
+.col-sm .img-men {
+    margin-top: 20px;
+    margin-right: 20px;
+    }
+
+.col-sm .whoweare {
+   float: left; 
+   padding: 5px;
+   margin-top: 45px;
+   }
+
+.col-sm h5 {
+   color: #ffcd00;
+ }
+
+.col-sm p {
+   margin-top: 0;
+   margin-bottom: 1rem;
+   text-align: justify;
+} 
+ 
+.col-sm .clients {
+   margin-top: 50px; 
+ }
+
+.clients .img-fluid {
+   padding: 10px;
+   } 
+ 
+ 
