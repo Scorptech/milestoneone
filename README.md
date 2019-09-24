@@ -124,20 +124,18 @@ The Contact page features a **contact form**, which requests client name and ema
 
 ### Features to Implement in future
 
--   GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal data. Ensures the business complies with the EU data protection law. - Javascript Needed
+-   GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal data. Ensures the business        complies with the EU data protection law. - Javascript Needed
 -   Add CAPTCHA to contact form - Allows business to protect the contact form from spam. - Javascript Needed
 -   contact form Send button change from _Send_ to _Processing_ and then when complete changes to _Sent_. - Javascript Needed
--   FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential clients easy to find answers to their common questions. - Javascript Needed for dropdown functionality. Simple FAQ page could be implemented now.
--   Artists' blog - Allows new potential clients to discover the website through articles written by the artist establishing her as a thought leader. - Artist currently doesn't have time to write a blog.
--   Option to choose the language of the website - As the artist's second language is Dutch, this would allow Dutch speaking visitors to the website to view it in their native language. - Budget not available for professional translation at the time.
+-   FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential customers easy to find answers to their common questions. - Javascript     Needed for dropdown functionality. Simple FAQ page could be implemented now.
 
 ## Technologies Used
 
 -   This project uses HTML and CSS programming languages.
--   [Cloud9](https://c9.io) - This developer used **Cloud9** for their IDE while building the      website.
+-   [Visual Studio Code](https://code.visualstudio.com/) - This developer used **Visual Studio Code** for their IDE while building the website.
 -   [BootstrapCDN](https://www.bootstrapcdn.com/)
--   The project uses **Bootstrap4** to simplify the structure of the website and make the          website responsive easily.
--   The project also uses BootstrapCDN to provide icons from [FontAwesome](https://                www.bootstrapcdn.com/fontawesome/)
+-   The project uses **Bootstrap4** to simplify the structure of the website and make the website responsive easily.
+-   The project also uses BootstrapCDN to provide icons from [FontAwesome](https://www.bootstrapcdn.com/fontawesome/)
 -   [fancybox](https://fancyapps.com/fancybox/3/)
 -   The project uses **Fancybox** for a gallery modal popup to view gallery images.
 -   [Google Fonts](https://fonts.google.com/)
@@ -145,12 +143,10 @@ The Contact page features a **contact form**, which requests client name and ema
 -   [Vimeo](https://vimeo.com)
 -   The project used **Vimeo** to host the promotional video.
 -   [jQuery](https://jquery.com/)
--   The project uses **jQuery** to reference Javascript needed for the responsive navbar,          Vimeo video and Fancybox gallery modal.
--   [Popper.js](https://popper.js.org/)
--   The project uses **Popper,js** reference Javascript needed for the responsive navbar.
+-   The project uses **jQuery** to reference Javascript needed for the responsive navbar, Vimeo video and Fancybox gallery modal.
 -   [AutoPrefixer](https://autoprefixer.github.io/)
 -   This project used **AutoPrefixer** to make sure the css code is valid for all browsers.
--   All external images are stored and linked from a **Wordpress Media library** owned by the      artist.
+-   All external images are stored and linked from a **Wordpress Media library** owned by the artist.
 
 ## Testing
 
@@ -158,12 +154,12 @@ Testing information can be found in separate [TESTING.md file](https://github.co
 
 ## Deployment
 
-This project was developed using the [Cloud9 IDE](https://c9.io), committed to git and pushed to GitHub using the built in function within cloud9.
+This project was developed using [Visual Studio Code IDE ](https://https://code.visualstudio.com), committed to git and pushed to GitHub using the github windows desktop version for visual studio code.
 
-To deploy this page to GitHub Pages from its [GitHub repository](https://github.com/AJGreaves/portrait-artist), the following steps were taken:
+To deploy this page to GitHub Pages from its [GitHub repository](https://scorptech.github.io/milestoneone/), the following steps were taken:
 
 1.  Log into GitHub.
-2.  From the list of repositories on the screen, select **AJGreaves/portrait-artist**.
+2.  From the list of repositories on the screen, select **Scorptech/milestoneone**.
 3.  From the menu items near the top of the page, select **Settings**.
 4.  Scroll down to the **GitHub Pages** section.
 5.  Under **Source** click the drop-down menu labelled **None** and select **Master Branch**
@@ -176,7 +172,7 @@ At the moment of submitting this Milestone project the Development Branch and Ma
 
 To clone this project from GitHub:
 
-1.  Follow this link to the [Project GitHub repository](https://github.com/AJGreaves/portrait-artist).
+1.  Follow this link to the [Project GitHub repository](https://scorptech.github.io/milestoneone).
 2.  Under the repository name, click "Clone or download".
 3.  In the Clone with HTTPs section, copy the clone URL for the repository.
 4.  In your local IDE open Git Bash.
@@ -193,8 +189,8 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 ### Content
 
--   The text for the Home page and About page was created for Anna Gilhespy by [Catriona Black](https://nl.linkedin.com/in/catrionablack).
--   The text for the rest of the website was created by Anna Gilhespy and proof-read/edited by [Catriona Black](https://nl.linkedin.com/in/catrionablack).
+-   The text for the Home page and About page was created for Alan Maher by (www.linkedin.com/in/alanjmaher).
+-   The text for the rest of the website was created by Alan Maher and proof-read/edited(www.linkedin.com/in/alanjmaher).
 
 ### Media
 
