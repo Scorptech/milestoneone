@@ -54,22 +54,22 @@ The customer goals of this website are:
 
 ##### Client stories
 
-1.  As a new visitor to the website, I want to easily navigate the site and feel comfortable       with the builder and his commitment 
-2.  As a new visitor to the website, I want the ability to request a quote for some                construction  work I require. A ball park figure is all I need now, which will determine       whether I go ahead with the construction. 
-3.  As a potential client, I want the option to view the builders previous work and speak to       existing customers regarding the service they received.
-6.  As an interested client, I want to understand what might be involved in a project before I     make an decisions. The ability to request a quote means that I will receive information        that will be me an initial idea as to whether I can proceed with the project.
-7.  As an interested client, I want an easy to fill in contact form, so I can make contact         with the builder should I need general building information.
-8.  As an interested observer and/or potential client, I want to follow the builder on social      media to keep up with his latest news.
-9.  As a returning visitor to the website, who has already decided to contact the builder          using the contact form, I want to be able to find the request a quote based on my initial      enquiry.
+1.  As a new visitor to the website, I want to easily navigate the site and feel comfortable with the builder and his commitment 
+2.  As a new visitor to the website, I want the ability to request a quote for some construction  work I require. A ball park figure is all I need now,         which will determine whether I go ahead with the construction. 
+3.  As a potential client, I want the option to view the builders previous work and speak to existing customers regarding the service they received.
+6.  As an interested client, I want to understand what might be involved in a project before I make an decisions. The ability to request a quote means that     I will receive information that will be me an initial idea as to whether I can proceed with the project.
+7.  As an interested client, I want an easy to fill in contact form, so I can make contact with the builder should I need general building information.
+8.  As an interested observer and/or potential client, I want to follow the builder on social media to keep up with his latest news.
+9.  As a returning visitor to the website, who has already decided to contact the builder using the contact form, I want to be able to find the request a quote based on my initial enquiry.
 
 ##### Wireframe mockups:
 
-
 ## Features
 
-Each page features a responsive **navigation bar** with conventional placing of **logo** (top left) and a highlighted "request a quote" button in the top right. Each page has a **footer** with **copyright information** and **social media icons** linking to 5 the artists' social media pages.
+Each page has the company details at the **Top Bar** which has company details and also the **Social media Icons** for social media pages.
+Each page features a responsive **navigation bar** with conventional placing of **logo** (top left). Each page has a **footer** with **copyright information** and **social media icons** linking to 6 social media pages.
 
-Every page - except the home page - features its own **hero image** at the top, detailing a drawing or painting by the artist, or in the case of the about page, a photo of the artist in her studio. The purpose of the hero image is to grab attention and give a positive emotional response to the user.
+Every page has a **consistent design** except for the content section which displays the relevant information for that selected page.
 
 ##### Home
 
