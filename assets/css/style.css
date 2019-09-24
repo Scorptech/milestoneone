@@ -31,7 +31,21 @@ This is the CSS control for the top bar
 .col-sm-3 p {
     margin-top: 17px;
 }
-    
+
+.topbar .col-number {
+    margin-top: 17px;
+}
+
+.topbar .col-address {
+    margin-top: 17px;
+}
+
+
+.topbar .col-hours {
+    margin-top: 17px;
+}
+
+
 .bg-light {
     background-color: #fff!important;
 }   
@@ -229,7 +243,20 @@ This is the CSS control for the Let Us Help You section
 ============================================================================================
 */ 
 
- .fixed-img {
+.container-fluid p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+}
+
+
+
+
+
+
+
+
+
+/* .fixed-img {
     height: 100vh;
 
     background: url('../../assets/images/work-bg.jpg') no-repeat center center fixed;
@@ -269,6 +296,8 @@ This is the CSS control for the Let Us Help You section
     line-height: 1.2;
     color: white;
 }
+*/
+
 
 /* 
 ============================================================================================
