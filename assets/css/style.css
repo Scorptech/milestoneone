@@ -294,3 +294,32 @@ This is for the next project banner
     padding: 20px;
     }
 
+/*
+============================================================================================
+This is the CSS control for the Yellow Bar section 
+============================================================================================
+*/  
+ 
+
+.yellowbar {
+    background-color: #ffcd00;
+    Padding: 10px; 
+    }
+
+.yellowbar .row {
+   background-color: #ffcd00;
+   color: #525252;
+   }
+ 
+.yellowbar p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+    font-size: 20px;
+    } 
+ 
+.yellowbar .img-fluid {
+    max-width: 90%;
+    height: auto;
+    padding-right: 10px;
+    margin-top: 20px;
+    } 
