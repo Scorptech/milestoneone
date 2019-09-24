@@ -100,4 +100,82 @@ This is the CSS control for the menu bar
        color: #ffcd00;
      } 
      
+/* 
+============================================================================================
+This is for the showcase section  
+============================================================================================
+*/ 
+ 
+.showcase-container {
+    height: 100vh;
+
+    background: url('../images/slider1.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* 
+============================================================================================
+This is for the Jumbotron section  
+============================================================================================
+*/ 
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.jumbotron h2 {
+    color: white;
+    font-weight: bold;
+    }
+
+.jumbotron h1 {
+    color: #ffcd00;
+    font-weight: bold;
+    font-size: 80px;
+    }
+ 
+/* 
+============================================================================================
+This is for the buttons  
+============================================================================================
+*/  
+
+.btn--cta {
+    font-weight: bold;
+    border-radius: 23px;
+    width: 260px;
+    }
+
+.btn--yellow {
+    color: black;
+    background-color: #ffcd00;
+    border-color: #ffcd00;
+}
+
+.btn--yellow:hover,
+.btn--yellow:active,
+.btn--yellow:focus,
+.btn--yellow:active:focus {
+    background-color: #edc938;
+    border-color: #edc938;
+    color: black;
+}
     
