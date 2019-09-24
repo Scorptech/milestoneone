@@ -85,21 +85,28 @@ The home page **promotional video** hosted by Vimeo, engages the user and tells 
 
 After the special hero image/video is some **compelling copy** which reinforces the emotional response to the artist's work and the potential client's desire to add it to their lives.
 
+Ther are two modal buttons which you can press to **request a qoute** from the builder.  
+
 ##### The Team
 
-The About page features **two photographs** of the artist in her studio, one professional headshot photograph, and a professional photograph of a painting in a fancy apartment. The about page also includes some brief but compelling copy about the artist. _Enough information to satisfy curiosity without overwhelming the user_.
+The Team page features **Staff Cards** which change from color to black and white when you hover over the images. It is always good to see who
+the people are that work for the company which makes a more _personal_.
 
-At the bottom of the page (above the footer) are two **call to action buttons**: _Visit Gallery_ and _How to Order_. The How to Order button is highlighted.
+At the bottom of the page (above the footer) are is a yellow bar with more **company information**. 
 
 ##### Contact
-The Contact page features a **contact form**, which requests client name and email, provides a place to upload a photograph, and below that a box to leave a message. At the bottom of the form clients can **upload** photograph(s) they want the artist to use.
-The bottom of the form contains a **Send Button**
+The Contact page features a **contact form**, which requests client name and email and below that a box to leave a message. The bottom of the form contains a **Send Button**
 
 ### Existing Features
 
--   Header Logo - Exists on [every page](https://github.com/AJGreaves/portrait-artist/blob/        index.html) and allows all users to easily recognise the business brand. Clicking the logo     returns users to the home page as they would expect.
--   Header Navigation Bar - Exists on [every page](https://github.com/AJGreaves/                   portrait-artist/blob/index.html) and allows all users to easily navigate all the website's     pages and find what they are looking for quickly.
--   Footer Copyright Info - Exists on [every page](https://github.com/AJGreaves/                   portrait-artist/blob/index.html) and protects business copyright.
+-   Header Logo - Exists on [every page](https://scorptech.github.io/milestoneone/index.html). 
+    Clicking the logo returns the user to the home page as they would expect.
+
+-   Header Navigation Bar - Exists on [every page](https://scorptech.github.io/milestoneone/index.html) 
+    and allows all users to easily navigate all the website's pages and find what they are looking for quickly.
+
+-   Footer Copyright Info - Exists on [every page](https://github.com/AJGreaves/                   portrait-artist/blob/index.html) and protects business       copyright.
+
 -   Footer Social Icons - Exist on [every page](https://github.com/AJGreaves/portrait-artist/      blob/index.html) and allows all users to access the social platforms that the artist uses.
 -   Call to Action Buttons - Exist on [every page](https://github.com/AJGreaves/                   portrait-artist/blob/index.html) and guide potential clients through the process of            viewing artwork, learning about pricing and the order process, and finally making first        contact for their order.
 -   [Promotional Video](https://github.com/AJGreaves/portrait-artist/blob/index.html) - Allows     potential clients to connect with the artist, see her working in the studio and view some      of her work. Creates connection and emotional response.
