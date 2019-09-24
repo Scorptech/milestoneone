@@ -106,7 +106,7 @@ This is for the showcase section
 ============================================================================================
 */ 
  
-.jumbotron-fluid {
+.showcase-container {
     height: 100vh;
 
     background: url('../assets/images/slider1.jpg') no-repeat center center fixed;
