@@ -1,3 +1,9 @@
+
+<img src="assets/images/webuilder_mockup.jpg"
+     alt="WeBuilder Website"
+     style="float: left; margin-right: 10px;" />
+
+
 You can check out my milestone at -   https://github.com/Scorptech/MilestoneOne
 
 
@@ -69,7 +75,7 @@ The customer goals of this website are:
 Each page has the company details at the **Top Bar** which has company details and also the **Social media Icons** for social media pages.
 Each page features a responsive **navigation bar** with conventional placing of **logo** (top left). Each page has a **footer** with **copyright information** and **social media icons** linking to 6 social media pages.
 
-Every page has a **consistent design** except for the content section which displays the relevant information for that selected page.
+Every page has **consistent design** except for the content section which displays the relevant information for that selected page.
 
 ##### Home
 
