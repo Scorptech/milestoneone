@@ -406,6 +406,22 @@ footer {
     margin-bottom: 20px;
  }
 
+ .fa-map-marker:before {
+    content: "\f041";
+    margin-right: 5px;
+}
+
+.fa-phone:before {
+    content: "\f095";
+    margin-right: 5px;
+}
+
+.fa-envelope-square:before {
+    content: "\f199";
+    margin-right: 5px;
+}
+
+
 /* 
 ============================================================================================
 This is for the next project banner  
