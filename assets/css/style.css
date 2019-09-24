@@ -62,7 +62,7 @@ This is the CSS control for the top bar
 }
 
 #nav-details {
-    padding: 0 40px 0 0;
+    padding: 0 40px 0 0 ;
     background-color: #525252;
     font-weight:bold;
     color: #fff;
@@ -222,12 +222,58 @@ whoweare-image2 .img {
    margin-bottom: 0;
  }   
 
+
 /*
 ============================================================================================
-This is the CSS control for the Who We Are section 
+This is the CSS control for the Let Us Help You section 
 ============================================================================================
 */ 
 
+ .fixed-img {
+    height: 100vh;
+
+    background: url('../../assets/images/work-bg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+    }
+
+
+.jumbotron-fluid {
+    padding: 2rem 1rem;
+    margin-bottom: 0rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+} 
+
+.fixed-img .row {
+    background-color: transparent;
+}
+
+.fixed-img h1 {
+    color: #ffcd00;
+    font-weight: bold;
+    text-align:center;
+}
+
+.jumbotron-header {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: white;
+}
+
+.col-12 {
+    margin-top: 180px;
+    /*margin-bottom: 120px;*/
+ }
 
 
 
@@ -256,9 +302,4 @@ This is for the next project banner
     }
 
 
-/* 
-============================================================================================
-This is for the data section   
-============================================================================================
-*/ 
 
