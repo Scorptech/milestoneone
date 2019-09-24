@@ -282,6 +282,10 @@ This is for the next project banner
 ============================================================================================
 */ 
 
+.banner_advert .row {
+    Background-color: #525252;
+    }
+
 .banner-advert {
     Background-color: #525252;
     color: white;
