@@ -237,7 +237,7 @@ This is the CSS control for the Let Us Help You section
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-/*
+
     display: flex;
     align-items: center;
     justify-content: center;
@@ -269,11 +269,6 @@ This is the CSS control for the Let Us Help You section
     line-height: 1.2;
     color: white;
 }
-*/
-.col-12 {
-    /* margin-top: 180px;*/
-    }
-
 
 /* 
 ============================================================================================
