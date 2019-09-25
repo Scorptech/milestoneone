@@ -169,8 +169,6 @@ git clone https://github.com/USERNAME/REPOSITORY
 
 Further reading and troubleshooting on cloning a repository from GitHub [here](https://help.github.com/en/articles/cloning-a-repository).
 
-## Credits
-
 ### Content
 
 -   The text for the Home page and About page was created for Alan Maher by (www.linkedin.com/in/alanjmaher).
