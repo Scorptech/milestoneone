@@ -79,7 +79,7 @@ Every page has **consistent design** except for the content section which displa
 
 ##### Home
 
-The Home page features a **image carousel** which gives an animated feel to the website for maximum impact on arriving at the website. This is switch off  while not using up people's data unnecessarily on mobile and tablet devices.
+The Home page features a **image carousel** which gives an animated feel to the website for maximum impact on arriving at the website. This is switched off  while not using up people's data unnecessarily on mobile and tablet devices.
 
 Ther are two modal buttons which you can press to **request a qoute** from the builder.  
 
@@ -136,10 +136,6 @@ The Contact page features a **contact form**, which requests client name and ema
 -   The project uses **Google fonts** to style the website fonts.
 
 
-## Testing
-
-Testing information can be found in separate [TESTING.md file](https://github.com/AJGreaves/portrait-artist/blob/master/TESTING.md)
-
 ## Deployment
 
 This project was developed using [Visual Studio Code IDE ](https://https://code.visualstudio.com), committed to git and pushed to GitHub using the github windows desktop version for visual studio code.
@@ -190,7 +186,7 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 ### Acknowledgements
 
--   I received inspiration for this project after seeing have the family builder, Willie, went about project managing building contract working first hand. 
+-   I received inspiration for this project after dealing with the family builder, Willie, go about project managing a building contract for my mother-in-law and seeing the re-development first hand. 
 
 -   My mentor Simen Daehlin guided me on how to investigate and find CSS issues using the inspect tool like a detective looking for evidence! 
 
