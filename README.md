@@ -19,7 +19,7 @@ The business goals of this website are:
 
 -   To give people the option to request a quote without phoning Willie and taking up his time
 -   The give customers an uncluttered, easy to use and graphically pleasing website experience
--   To allow customer to request for quotes 24/7 and to also request information regarding         previous work
+-   To allow customer to request for quotes 24/7 and to also request information regarding previous work
 
 The customer goals of this website are:
 
@@ -41,12 +41,12 @@ The customer goals of this website are:
 ##### Visitors to this website are searching for:
 
 -   A company that can offer a turnkey solution and manage their project from start to finish
--   Being patient regarding their quote request as building regulation information might need      to be researched before an estimated quote is provided
+-   Being patient regarding their quote request as building regulation information might need to be researched before an estimated quote is provided
 
 ##### This project is the best way to help them achieve these things because:
 
 -   Most builders do not have a website.
--   Most of the builders websites on the internet that are active, do not offer a turnkey          solution
+-   Most of the builders websites on the internet that are active, do not offer a turnkey solution
 -   You will be given the option to visit work completed with previous customers.
 
 -   This website is:
