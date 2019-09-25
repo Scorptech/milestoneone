@@ -176,35 +176,55 @@ This is the CSS control for the Who We Are section
 ============================================================================================
 */ 
  
-.img-fluid {
-    max-width: 90%;
-    height: auto;
-    
-    } 
- 
+.companyinfo .img-fluid {
+     float: right;
+     }
+
+.companyinfo {    
+    text-align:left;
+    margin: 20px 15px 0 15px;
+}
+
+.companyinfo .row {
+    margin-right: 0;
+    margin-left: 0;
+    }
+
+.companyinfo .clients {
+    float: left;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.companyinfo .clients .img-fluid {
+    /* padding: 15px 15px 15px 15px; */
+    }
+
+
+
+/*
 .aboutus-text {
     text-align:left;
     margin: 20px 15px 20px 15px;
-    
     } 
  
 .aboutus-text h5 {
     color: #ffcd00;
- }
+    }
     
 .clients .img-fluid {
    padding: 15px 15px 15px 15px;
    margin-bottom: 30px;
    } 
    
-whoweare-image2 .img {
-   margin: 20px 0 0 0;
+.whoweare-image2 .img-fluid {
+   float: right;
    }
    
 .whoweare-image2 p {
    margin-bottom: 0;
- }   
-
+   }   
+*/
 
 /*
 ============================================================================================
@@ -236,9 +256,8 @@ This is the CSS control for the Let Us Help You section
 .header {
     font-size: 30px;
     font-weight: 700;
-    line-height: 1.2;
     color: white;
-}
+    }
 
 
 /* 
@@ -284,10 +303,15 @@ This is the CSS control for the Yellow Bar section
  
 .yellowbar .img-fluid {
     max-width: 90%;
-    height: auto;
+    height: 90%;
     padding-right: 10px;
     margin-top: 20px;
     } 
+
+.yellowbar .col-sm-12 .col-md-4 {
+    padding: 0; 
+    }
+
 
 
     /*
