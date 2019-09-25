@@ -79,11 +79,7 @@ Every page has **consistent design** except for the content section which displa
 
 ##### Home
 
-The Home page features a image carousel which gives an animated feel to the website for maximum impact on arriving at the website. This is switch off  while not using up people's data unnecessarily on mobile and tablet devices.
-
-The home page **promotional video** hosted by Vimeo, engages the user and tells them the value of the products on offer.
-
-After the special hero image/video is some **compelling copy** which reinforces the emotional response to the artist's work and the potential client's desire to add it to their lives.
+The Home page features a **image carousel** which gives an animated feel to the website for maximum impact on arriving at the website. This is switch off  while not using up people's data unnecessarily on mobile and tablet devices.
 
 Ther are two modal buttons which you can press to **request a qoute** from the builder.  
 
