@@ -32,8 +32,6 @@ This is the CSS control for the top bar
     margin-top: 17px;
 }
 
-
-
 .bg-light {
     background-color: #fff!important;
 }   
@@ -64,11 +62,17 @@ This is the CSS control for the top bar
 }
 
 #nav-details {
-    padding: 0 40px 0 0 ;
+    padding: 0;
     background-color: #525252;
     font-weight:bold;
     color: #fff;
 } 
+
+.topbar .row {
+    margin-right: 0px;
+}
+
+
 
 /* 
 ============================================================================================
@@ -182,7 +186,7 @@ This is the CSS control for the Who We Are section
 
 .companyinfo {    
     text-align:left;
-    margin: 20px 15px 0 15px;
+    margin: 20px 0 0 15px;
 }
 
 .companyinfo .row {
@@ -197,7 +201,7 @@ This is the CSS control for the Who We Are section
 }
 
 .companyinfo .clients .img-fluid {
-    /* padding: 15px 15px 15px 15px; */
+    padding: 15px 15px 15px 15px; 
     }
 
 
