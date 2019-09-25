@@ -97,7 +97,7 @@ This is the CSS control for the menu bar
      
 /* 
 ============================================================================================
-This is for the carousel section  
+This is for the carousel showcase section  
 ============================================================================================
 */ 
 
@@ -105,7 +105,7 @@ This is for the carousel section
     color: #ffcd00;
     font-weight: bold;
     font-size: 80px;
-    margin-bottom: 500px;
+    margin-bottom: 10px;
    }
 
 .carousel-inner  h6 {
@@ -115,43 +115,17 @@ This is for the carousel section
    margin-bottom: 0;
    }
 
-     /* 
-============================================================================================
-This is for the showcase section  
-============================================================================================
-*/ 
+.carousel-inner .btn--cta {
+     margin-bottom: 500px;
+    }
  
-/* .jumbotron-fluid {
-    height: 100vh;
-
-    background: url('../../assets/images/slider1.jpg') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    position: relative;
-}
-
-.opaque-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
-}
-*/
 
 /* 
 ============================================================================================
 This is for the Jumbotron section  
 ============================================================================================
 */ 
+
 
 .jumbotron {
     background-color: transparent;
@@ -167,20 +141,6 @@ This is for the Jumbotron section
     font-weight: bold;
     font-size: 80px;
     }
- 
-.display-4 {
-        font-size: 40px;
-        font-weight: 700;
-        line-height: 1.2;
-        color: white;
-    }
-    
-.innovate h1 {
-        color: #ffcd00;
-        font-weight: bold;
-        text-align:center;
-    }
-    
 
 
 /* 
@@ -279,51 +239,6 @@ This is the CSS control for the Let Us Help You section
     line-height: 1.2;
     color: white;
 }
-
-
-
-
-/* .fixed-img {
-    height: 100vh;
-
-    background: url('../../assets/images/work-bg.jpg') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    position: relative;
-    }
-
-
-.jumbotron-fluid {
-    padding: 2rem 1rem;
-    margin-bottom: 0rem;
-    background-color: #e9ecef;
-    border-radius: .3rem;
-} 
-
-.fixed-img .row {
-    background-color: transparent;
-}
-
-.fixed-img h1 {
-    color: #ffcd00;
-    font-weight: bold;
-    text-align:center;
-}
-
-.jumbotron-header {
-    font-size: 30px;
-    font-weight: 700;
-    line-height: 1.2;
-    color: white;
-}
-*/
 
 
 /* 
