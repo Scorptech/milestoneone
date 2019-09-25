@@ -1,7 +1,5 @@
 
-<img src="assets/images/webuilder_mockup.jpg"
-     alt="WeBuilder Website"
-     style="float: left; margin-right: 10px;" />
+<img src="assets/images/webuilder_mockup.jpg" alt="WeBuilder Website" style="float: left; margin-right: 10px;" />
 
 
 You can check out my milestone at -   https://github.com/Scorptech/MilestoneOne
