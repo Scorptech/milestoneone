@@ -79,7 +79,7 @@ Every page has **consistent design** except for the content section which displa
 
 ##### Home
 
-The Home page features a special hero image _or_ video. On mobile and tablet devices a full screen static image is seen. On desktops this is replaced with a promotional video, which autoplays on mute as a background element. Both of these elements have the page header displayed as an overlay. The purpose of this hero image/video element is to give maximum impact on arriving at the website, while not using up people's data unnecessarily on mobile and tablet devices.
+The Home page features a image carousel which gives an animated feel to the website for maximum impact on arriving at the website. This is switch off  while not using up people's data unnecessarily on mobile and tablet devices.
 
 The home page **promotional video** hosted by Vimeo, engages the user and tells them the value of the products on offer.
 
@@ -136,17 +136,9 @@ The Contact page features a **contact form**, which requests client name and ema
 -   [BootstrapCDN](https://www.bootstrapcdn.com/)
 -   The project uses **Bootstrap4** to simplify the structure of the website and make the website responsive easily.
 -   The project also uses BootstrapCDN to provide icons from [FontAwesome](https://www.bootstrapcdn.com/fontawesome/)
--   [fancybox](https://fancyapps.com/fancybox/3/)
--   The project uses **Fancybox** for a gallery modal popup to view gallery images.
 -   [Google Fonts](https://fonts.google.com/)
 -   The project uses **Google fonts** to style the website fonts.
--   [Vimeo](https://vimeo.com)
--   The project used **Vimeo** to host the promotional video.
--   [jQuery](https://jquery.com/)
--   The project uses **jQuery** to reference Javascript needed for the responsive navbar, Vimeo video and Fancybox gallery modal.
--   [AutoPrefixer](https://autoprefixer.github.io/)
--   This project used **AutoPrefixer** to make sure the css code is valid for all browsers.
--   All external images are stored and linked from a **Wordpress Media library** owned by the artist.
+
 
 ## Testing
 
@@ -194,31 +186,25 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 ### Media
 
--   All the photos used in this site were obtained from the artist - Anna Gilhespy.
--   Professional photography on images about1.jpg and about3.jpg on the About page by [Rudi        Wells Photography](https://headshots.amsterdam) and obtained from the artist - Anna            Gilhespy.
--   The video on this website was produced by [Luke Davis](https://about.me/lukedavies) and        obtained from the artist - Anna Gilhespy.
+-   All the images used in this site were obtained from a free website theme by Rocky Ahmed.
 
 ### Code
 
--   CSS code for shadows and hover responsiveness of gallery images was originally taken from      [Material Design Box Shadows| A Pen By Samuel Thornton](https://codepen.io/sdthornton/pen/     wBZdXq) and then edited.
--   CSS code for overlays on index.html page originally taken from [FullScreen YouTube Video       Background In Pure CSS](https://codepen.io/dudleystorey/pen/PZyMrd%5D)
+-   Some of the CSS code was taken from the https://getbootstrap.com/ 
 
 ### Acknowledgements
 
--   I received inspiration for this project from my own experience of building and maintaining     a WordPress website for this business in the past years.
--   My mentor Simen Daehlin guided me towards attempting the special responsive header on the      Home page.
+-   I received inspiration for this project after seeing have the family builder, Willie, went about project managing building contract working first hand. 
+
+-   My mentor Simen Daehlin guided me on how to investigate and find CSS issues using the inspect tool like a detective looking for evidence! 
 
 #### Disclaimer
 
-The content of this Website is for educational purposes only.
+-   This website is purely a mock up and was not designed to be a working, commercial website.  
 
-### A note to my fellow Code Institute students
+Many thanks! 
 
-I am happy that you have come to look at my readme as an example of how to write a good one for your first Milestone project. You are welcome to learn how to structure and format your own readme from mine.
-
-However, it is not ok to copy and paste large portions of it into your own project. Please remember to write your own readme yourself, rather than copying mine or someone elses.
-
-Many thanks! Alan
+Alan
 
 
 
