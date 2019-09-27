@@ -28,7 +28,6 @@ body, html {
 .row {
   padding-right: 0px;
   padding-left: 0px;
-  /* background-color: #525252; */
   }
 
 
@@ -38,6 +37,7 @@ body, html {
 This is the CSS control for the Top Bar 
 ============================================================================================
 */ 
+
 
 .topbar {
   background-color: #525252; 
@@ -226,8 +226,7 @@ This is the CSS control for Banner Advert
   color: white;
   font-family: "Roboto", sans-serif;
   font-size: 30px;
-  padding-right: 0px;
-  padding-left: 0px;
+  padding: 20px 0 20px 0;
   }
   
 .banner-advert .btn-group-lg>.btn, .btn-lg {
@@ -278,6 +277,7 @@ This is the CSS control for the Footer section
   .footer {
     background-color: #31353d;
     color: #fafafa;
+    padding: 10px 0 10px 0;
     }
 
 
