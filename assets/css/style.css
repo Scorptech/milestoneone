@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+
+
 /*==============================================
 @Author: Alan Maher
 @URL: https://scorptech.github.io/milestoneone/
 Author E-mail: info@crossakiel.com
 =================================================*/
-
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 body, html {
       margin: 0;
@@ -12,28 +14,42 @@ body, html {
       text-align: center;
       }
 
-/* 
-============================================================================================
-This is the CSS control for the top bar 
-============================================================================================
-*/ 
 .container-fluid {
-    margin: 0;
+      margin: 0;
+      padding: 0;
+      }
+
+
+.col {
+      padding-right: 0px;
+      padding-left: 0px;
+      }
+
+.row {
     padding-right: 0px;
     padding-left: 0px;
     }
 
-.col-sm-3 {
-     padding-left: 0;
-     padding-right: 0;
-    }
 
-.col-sm-3 p {
-    margin-top: 17px;
+/* 
+============================================================================================
+This is the CSS control for the Top Bar 
+============================================================================================
+*/ 
+
+.topbar .d-none {
+    background-color: #525252; 
 }
 
-.bg-light {
-    background-color: #fff!important;
+.topbar .col-sm-3 {
+    display: inline-block;
+    padding: 5px;
+    width: 400px;
+    color: #fff;
+   }
+
+/*.bg-light {
+    background-color: #fff;*/
 }   
 
 .social-links {
@@ -61,109 +77,57 @@ This is the CSS control for the top bar
     background: #ffcd00;
 }
 
-#nav-details {
-    padding: 0;
-    background-color: #525252;
-    font-weight:bold;
-    color: #fff;
-} 
-
-.topbar .row {
-    margin-right: 0px;
-}
-
-
 
 /* 
 ============================================================================================
-This is the CSS control for the menu bar 
+This is the CSS control for the Nav Bar 
 ============================================================================================
 */ 
 
-    
-    li a h6 {
+.navbar-light .navbar-nav .nav-link {
         color: #525252;
-    }
-
-
-    li .nav-item .mr-2:active {
-        color: #ffcd00;
-     }
-    
-    
-    .navbar-nav li a h6:hover  {
-        color: #ffcd00
-     }
-     
-    .homeyellow h6 {
-       color: #ffcd00;
-     } 
-     
-/* 
-============================================================================================
-This is for the carousel showcase section  
-============================================================================================
-*/ 
-
-.carousel-inner  h1 {
-    color: #ffcd00;
-    font-weight: bold;
-    font-size: 80px;
-    margin-bottom: 10px;
-   }
-
-.carousel-inner  h6 {
-   color: white;
-   font-weight: bold; 
-   font-size: 40px;
-   margin-bottom: 0;
-   }
-
-.carousel-inner .btn--cta {
-     margin-bottom: 500px;
-    }
- 
-
-/* 
-============================================================================================
-This is for the Jumbotron section  
-============================================================================================
-*/ 
-
-
-.jumbotron {
-    background-color: transparent;
+        font-weight: 500;
+        font-family: "Roboto", sans-serif;
+        padding: 20px;
 }
 
-.jumbotron h2, h6 {
-    color: white;
-    font-weight: bold;
-    }
-
-.jumbotron h1 {
-    color: #ffcd00;
-    font-weight: bold;
-    font-size: 80px;
-    }
-
 
 /* 
 ============================================================================================
-This is for the Jumbotron buttons section  
+This is the CSS control for the Carousel 
 ============================================================================================
-*/  
+*/ 
+
+.carousel-caption .innovate h1 {
+    color: #ffcd00;
+    font-weight: bold;
+    text-align:center;
+    font-size: 60px;
+    }
+
+.carousel-caption h5 {
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
+
+/*
+============================================================================================
+This is the CSS control for the "Request A Quote" button 
+============================================================================================
+*/ 
 
 .btn--cta {
     font-weight: bold;
     border-radius: 23px;
-    width: 260px;
+    width: 200px;
     }
 
 .btn--yellow {
     color: black;
     background-color: #ffcd00;
     border-color: #ffcd00;
-}
+    }
 
 .btn--yellow:hover,
 .btn--yellow:active,
@@ -172,107 +136,77 @@ This is for the Jumbotron buttons section
     background-color: #edc938;
     border-color: #edc938;
     color: black;
-}
-
-/*
-============================================================================================
-This is the CSS control for the Who We Are section 
-============================================================================================
-*/ 
- 
-.companyinfo .img-fluid {
-     float: right;
-     }
-
-.companyinfo {    
-    text-align:left;
-    margin: 20px 0 0 15px;
-}
-
-.companyinfo .row {
-    margin-right: 0;
-    margin-left: 0;
     }
 
-.companyinfo .clients {
-    float: left;
-    margin-top: 50px;
-    margin-bottom: 50px;
-}
-
-.companyinfo .clients .img-fluid {
-    padding: 15px 15px 15px 15px; 
+.btn-group-lg>.btn, .btn-lg {
+    margin-top: 20px;
     }
 
 
-
-/*
-.aboutus-text {
-    text-align:left;
-    margin: 20px 15px 20px 15px;
-    } 
- 
-.aboutus-text h5 {
-    color: #ffcd00;
-    }
-    
-.clients .img-fluid {
-   padding: 15px 15px 15px 15px;
-   margin-bottom: 30px;
-   } 
-   
-.whoweare-image2 .img-fluid {
-   float: right;
-   }
-   
-.whoweare-image2 p {
-   margin-bottom: 0;
-   }   
-*/
-
-/*
-============================================================================================
-This is the CSS control for the Let Us Help You section 
-============================================================================================
-*/ 
-
-.card-image {
-    margin-bottom: 0;
-    background: url('../../assets/images/work-bg.jpg') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    position: relative;
-}
-
-.fixed-img h1 {
-    color: #ffcd00;
-    font-weight: bold;
-    text-align:center;
-}
-
-.header {
-    font-size: 30px;
-    font-weight: 700;
-    color: white;
-    }
 
 
 /* 
 ============================================================================================
-This is for the next project banner  
+This is the CSS control for Who We Are 
 ============================================================================================
 */ 
 
-.banner_advert .row {
-    Background-color: #525252;
+.container-fluid .whoarewe {
+    margin-top: 30px;
     }
+
+.whoweare_image {
+    padding: 20px 0 20px 0;     
+    }
+
+.container-fluid .whoarewe h6 {
+    text-align: justify;
+    padding: 0 30px 30px 30px;
+    font-weight: 300;
+    font-family: "Roboto", sans-serif;
+    }
+
+.whoarewe .col-md-6 {
+    padding: 5px 5px 20px 5px;
+    margin-bottom: 20px;
+    }
+
+/* 
+============================================================================================
+This is the CSS control for Let Us Help You
+============================================================================================
+*/
+
+.jumbotron {
+    background-color: transparent;
+    padding: 0;
+    }
+
+.jumbotron h2 {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    }
+    
+.jumbotron h1 {
+    color: #ffcd00;
+    font-weight: bold;
+    font-size: 60px;
+    }
+
+.workwithus {
+    height: 50vh;
+    background: url('../../assets/images/work-bg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    
+
+/* 
+============================================================================================
+This is the CSS control for Banner Advert
+============================================================================================
+*/
 
 .banner-advert {
     Background-color: #525252;
@@ -281,7 +215,9 @@ This is for the next project banner
     font-size: 30px;
     padding: 20px;
     }
+    
 
+ 
 /*
 ============================================================================================
 This is the CSS control for the Yellow Bar section 
@@ -307,96 +243,25 @@ This is the CSS control for the Yellow Bar section
  
 .yellowbar .img-fluid {
     max-width: 90%;
-    height: 90%;
+    height: auto;
     padding-right: 10px;
     margin-top: 20px;
     } 
 
-.yellowbar .col-sm-12 .col-md-4 {
-    padding: 0; 
-    }
 
 
 
-    /*
-============================================================================================
-This is the CSS control for the Footer section 
-============================================================================================
-*/  
- 
-
-footer {
-    background-color: #31353d;
-    color: #fafafa;
-    min-height: 120px;
-    margin: 0; 
-   }
-
-.social-links {
-    padding-bottom: 15px;
-}
-
-.social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
-    border-radius: 50%;
-    font-size: 13px;
-    line-height: 7px;
-    text-align: center;
-    color: #fafafa;
-    background: #8f8f8f;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.social-links li a i:hover {
-    background: #ffcd00;
-}
-
-#footer-details {
-    padding: 20px;
-   }
-
-.general-sub-footer {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    color: #ffcd00;
-}
-
-.footer-email {
-    margin-bottom: 20px;
- }
-
- .fa-map-marker:before {
-    content: "\f041";
-    margin-right: 5px;
-}
-
-.fa-phone:before {
-    content: "\f095";
-    margin-right: 5px;
-}
-
-.fa-envelope-square:before {
-    content: "\f199";
-    margin-right: 5px;
-}
 
 
-/* 
-============================================================================================
-This is for the next project banner  
-============================================================================================
-*/ 
 
-.copyright {
-    background-color: fff;
-    color:#525252;
-    text-align: center;
-    font-family: "Roboto", sans-serif;
-    font-size: 15px;
-    padding: 20px;
-    }
+
+
+/*
+    
+    * {
+        background: #000 !important;
+        color: #0f0 !important;
+        outline: solid #f00 1px !important;
+      }  
+      
+*/
