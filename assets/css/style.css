@@ -9,73 +9,79 @@ Author E-mail: info@crossakiel.com
 =================================================*/
 
 body, html {
-      margin: 0;
-      padding: 0;
-      text-align: center;
-      }
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
 
 .container-fluid {
-      margin: 0;
-      padding: 0;
-      }
+    margin: 0;
+    padding: 0;
+    }
 
 
 .col {
-      padding-right: 0px;
-      padding-left: 0px;
-      }
-
-.row {
     padding-right: 0px;
     padding-left: 0px;
     }
 
+.row {
+  padding-right: 0px;
+  padding-left: 0px;
+  /* background-color: #525252; */
+  }
 
-/* 
+*/
+
+
 ============================================================================================
 This is the CSS control for the Top Bar 
 ============================================================================================
 */ 
 
-.topbar .d-none {
-    background-color: #525252; 
+.topbar {
+  background-color: #525252; 
 }
 
-.topbar .col-sm-3 {
-    display: inline-block;
-    padding: 5px;
-    width: 400px;
-    color: #fff;
-   }
 
-/*.bg-light {
-    background-color: #fff;*/
+
+.topbar .col-sm-3 {
+  display: inline-block;
+  padding: 5px;
+  width: 400px;
+  color: #fff;
+ }
+
+.bg-light {
+  background-color: #fff !important;
 }   
 
+
 .social-links {
-    padding: 10px 0px 5px 0px;
-    }
+  padding: 10px 0px 5px 0px;
+  }
 
 .social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
-    border-radius: 50%;
-    font-size: 13px;
-    line-height: 7px;
-    text-align: center;
-    color: #fafafa;
-    background: #8f8f8f;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-     
+  width: 32px;
+  height: 32px;
+  padding: 12px 0;
+  border-radius: 50%;
+  font-size: 13px;
+  line-height: 7px;
+  text-align: center;
+  color: #fafafa;
+  background: #8f8f8f;
+  transition: all 0.35s ease-in-out;
+  -moz-transition: all 0.35s ease-in-out;
+  -webkit-transition: all 0.35s ease-in-out;
+  -o-transition: all 0.35s ease-in-out;
+   
 }
 
 .social-links li a i:hover {
-    background: #ffcd00;
+  background: #ffcd00;
 }
+
 
 
 /* 
@@ -85,10 +91,10 @@ This is the CSS control for the Nav Bar
 */ 
 
 .navbar-light .navbar-nav .nav-link {
-        color: #525252;
-        font-weight: 500;
-        font-family: "Roboto", sans-serif;
-        padding: 20px;
+      color: #525252;
+      font-weight: 500;
+      font-family: "Roboto", sans-serif;
+      padding: 20px;
 }
 
 
@@ -99,16 +105,16 @@ This is the CSS control for the Carousel
 */ 
 
 .carousel-caption .innovate h1 {
-    color: #ffcd00;
-    font-weight: bold;
-    text-align:center;
-    font-size: 60px;
-    }
+  color: #ffcd00;
+  font-weight: bold;
+  text-align:center;
+  font-size: 60px;
+  }
 
 .carousel-caption h5 {
-    font-size: 30px;
-    font-weight: 700;
-    color: white;
+  font-size: 30px;
+  font-weight: 700;
+  color: white;
 }
 
 /*
@@ -118,29 +124,29 @@ This is the CSS control for the "Request A Quote" button
 */ 
 
 .btn--cta {
-    font-weight: bold;
-    border-radius: 23px;
-    width: 200px;
-    }
+  font-weight: bold;
+  border-radius: 23px;
+  width: 200px;
+  }
 
 .btn--yellow {
-    color: black;
-    background-color: #ffcd00;
-    border-color: #ffcd00;
-    }
+  color: black;
+  background-color: #ffcd00;
+  border-color: #ffcd00;
+  }
 
 .btn--yellow:hover,
 .btn--yellow:active,
 .btn--yellow:focus,
 .btn--yellow:active:focus {
-    background-color: #edc938;
-    border-color: #edc938;
-    color: black;
-    }
+  background-color: #edc938;
+  border-color: #edc938;
+  color: black;
+  }
 
 .btn-group-lg>.btn, .btn-lg {
-    margin-top: 20px;
-    }
+  margin-top: 20px;
+  }
 
 
 
@@ -152,24 +158,31 @@ This is the CSS control for Who We Are
 */ 
 
 .container-fluid .whoarewe {
-    margin-top: 30px;
-    }
+  margin-top: 30px;
+  }
 
 .whoweare_image {
-    padding: 20px 0 20px 0;     
-    }
+  padding: 20px 0 20px 0;     
+  }
 
 .container-fluid .whoarewe h6 {
-    text-align: justify;
-    padding: 0 30px 30px 30px;
-    font-weight: 300;
-    font-family: "Roboto", sans-serif;
-    }
+  text-align: justify;
+  padding: 0 30px 30px 30px;
+  font-weight: 300;
+  font-family: "Roboto", sans-serif;
+  }
 
 .whoarewe .col-md-6 {
-    padding: 5px 5px 20px 5px;
-    margin-bottom: 20px;
-    }
+  padding: 5px 5px 20px 5px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  }
+
+  .whoarewe .col-md-8 {
+   background-color: #fff;
+     }
+
+
 
 /* 
 ============================================================================================
@@ -178,29 +191,29 @@ This is the CSS control for Let Us Help You
 */
 
 .jumbotron {
-    background-color: transparent;
-    padding: 0;
-    }
+  height: 50vh;
+  background-color: transparent;
+  padding: 0;
+  margin-bottom: 0;
+  background: url('../images/work-bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+}
 
 .jumbotron h2 {
-    color: white;
-    font-weight: bold;
-    font-size: 30px;
-    }
-    
-.jumbotron h1 {
-    color: #ffcd00;
-    font-weight: bold;
-    font-size: 60px;
-    }
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
 
-.workwithus {
-    height: 50vh;
-    background: url('../../assets/images/work-bg.jpg') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    
+.jumbotron h1 {
+  color: #ffcd00;
+  font-weight: bold;
+  font-size: 60px;
+}
+
 
 /* 
 ============================================================================================
@@ -209,47 +222,74 @@ This is the CSS control for Banner Advert
 */
 
 .banner-advert {
-    Background-color: #525252;
-    color: white;
-    font-family: "Roboto", sans-serif;
-    font-size: 30px;
-    padding: 20px;
+  Background-color: #525252;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  padding-right: 0px;
+  padding-left: 0px;
+  }
+  
+.banner-advert .btn-group-lg>.btn, .btn-lg {
+    margin-top: 0px;
     }
-    
 
- 
 /*
 ============================================================================================
 This is the CSS control for the Yellow Bar section 
 ============================================================================================
 */  
- 
+
 
 .yellowbar {
-    background-color: #ffcd00;
-    Padding: 10px; 
-    }
+  background-color: #ffcd00;
+  Padding: 10px; 
+  }
 
 .yellowbar .row {
-   background-color: #ffcd00;
-   color: #525252;
-   }
- 
+ background-color: #ffcd00;
+ color: #525252;
+ }
+
 .yellowbar p {
-    margin-top: 0;
-    margin-bottom: 0rem;
-    font-size: 20px;
-    } 
- 
+  margin-top: 0;
+  margin-bottom: 0rem;
+  font-size: 20px;
+  } 
+
 .yellowbar .img-fluid {
-    max-width: 90%;
-    height: auto;
-    padding-right: 10px;
-    margin-top: 20px;
-    } 
+  max-width: 90%;
+  height: auto;
+  padding-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  } 
+
+.copyright .col {
+  background-color: #fff; 
+  }
+
+/*
+============================================================================================
+This is the CSS control for the Footer section 
+============================================================================================
+*/  
+
+  .footer {
+    background-color: #31353d;
+    color: #fafafa;
+    }
 
 
+   .general-sub-footer {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    color: #ffcd00;
+}
 
+.footer-icon-space {
+    margin-bottom: 10px;
+ }
 
 
 
@@ -257,11 +297,11 @@ This is the CSS control for the Yellow Bar section
 
 
 /*
+  
+  * {
+      background: #000 !important;
+      color: #0f0 !important;
+      outline: solid #f00 1px !important;
+    }  
     
-    * {
-        background: #000 !important;
-        color: #0f0 !important;
-        outline: solid #f00 1px !important;
-      }  
-      
 */
