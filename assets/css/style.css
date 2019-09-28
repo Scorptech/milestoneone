@@ -97,6 +97,16 @@ This is the CSS control for the Nav Bar
 }
 
 
+li .nav-item:active {
+  color: #ffcd00;
+}
+
+.navbar-nav li a h6:hover  {
+  color: #ffcd00
+}
+
+
+
 /* 
 ============================================================================================
 This is the CSS control for the Carousel 
@@ -166,7 +176,7 @@ This is the CSS control for Who We Are
 ============================================================================================
 */ 
 
-.container-fluid .whoarewe {
+.whoarewe {
   margin-top: 30px;
   }
 
@@ -174,7 +184,12 @@ This is the CSS control for Who We Are
   padding: 20px 0 20px 0;     
   }
 
-.container-fluid .whoarewe h6 {
+.allaboutus-heading {
+  color: #ffcd00; 
+  }
+
+
+.whoarewe h6 {
   text-align: justify;
   padding: 0 10px 30px 10px;
   font-weight: 300;
@@ -182,25 +197,24 @@ This is the CSS control for Who We Are
   }
 
 .whoarewe .col-md-6 {
-  /* padding: 0 5px 20px 5px; */
   margin-bottom: 20px;
   background-color: #fff;
   }
 
-  .whoarewe .col-md-8 {
+.whoarewe .col-md-8 {
    background-color: #fff;
-     }
+   }
 
 
 .colright {
   text-align: right;
   padding: 0 10px 0 0;
-}
+  }
 
 .colleft {
   text-align: left;
   padding: 0 0 0 10px;
-}
+  }
 
 
 
@@ -326,6 +340,71 @@ This is the CSS control for the Footer section
 */
 
 
+/* 
+============================================================================================
+This is the CSS control for The Team 
+============================================================================================
+*/ 
+
+.card .shadow {
+  width: 20rem;
+  }
+
+.inner{
+  overflow: hidden;
+  }
+
+.inner img{
+   transition: all 1.5s ease;
+  }
+
+.inner:hover img{
+  transform: scale(1.5);
+  }
+
+.row .justify-content-center {
+  margin: 0;    
+}
+
+.justify-content-center {
+  width: 80%;
+  }
+ 
+.justify-content-center .col-md-4 {
+   margin: 15px 0 15px 0;
+  }
+
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+.btnformat button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: #000;
+  background-color: #ffcd00;
+  text-align: center;
+  cursor: pointer;
+  width: 100%; 
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+.btnformat button:hover, a:hover {
+  opacity: 0.7;
+}
+
+
+
 /*
 ============================================================================================
 This is the CSS control for the media Queries 
@@ -351,10 +430,6 @@ This is the CSS control for the media Queries
     padding: 0 0 30px 0;
   }
 
-  .whoarewe .col-md-4 .men-image {
-    max-width: 0%;
-    height: auto;
-}
 
 
   }
@@ -448,6 +523,15 @@ This is the CSS control for the media Queries
   margin-top: 0px;
   }
 
-
+/*
+============================================================================================
+This is the CSS control for the media Queries on The Team Page
+============================================================================================
+*/ 
+ 
+.justify-content-center {
+  width: 100%;
+  margin: auto;
+  }
 
 }
