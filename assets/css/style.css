@@ -176,7 +176,7 @@ This is the CSS control for Who We Are
 
 .container-fluid .whoarewe h6 {
   text-align: justify;
-  padding: 0 30px 30px 30px;
+  padding: 0 10px 30px 10px;
   font-weight: 300;
   font-family: "Roboto", sans-serif;
   }
@@ -351,11 +351,14 @@ This is the CSS control for the media Queries
     padding: 0 0 30px 0;
   }
 
+  .whoarewe .col-md-4 .men-image {
+    max-width: 0%;
+    height: auto;
+}
+
+
   }
    
-
-
-}
 
 @media all and (max-width: 599px) and (min-width: 320px) {
  
@@ -368,7 +371,7 @@ This is the CSS control for the media Queries
     }
   
   .carousel-caption h5 {
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 700;
     color: white;
   }
