@@ -116,6 +116,18 @@ This is the CSS control for the Carousel
   color: white;
 }
 
+.carousel-caption {
+  width:100%;
+  text-align:center;
+  top:50%;
+  left:0%;
+  bottom:auto;
+  -webkit-transform:translate(0, -50%);
+  -ms-transform:translate(0, -50%);
+  transform:translate(0, -50%);
+  }
+
+
 /*
 ============================================================================================
 This is the CSS control for the "Request A Quote" button 
@@ -146,8 +158,6 @@ This is the CSS control for the "Request A Quote" button
 .btn-group-lg>.btn, .btn-lg {
   margin-top: 20px;
   }
-
-
 
 
 /* 
@@ -199,19 +209,34 @@ This is the CSS control for Let Us Help You
   -webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
-}
+  }
 
 .jumbotron h2 {
   color: white;
   font-weight: bold;
   font-size: 30px;
-}
+  }
 
 .jumbotron h1 {
   color: #ffcd00;
   font-weight: bold;
   font-size: 60px;
-}
+  }
+
+.vertical-center {
+    min-height: 100%; 
+    min-height: 70vh; 
+  
+    display: flex;
+    align-items: center;
+  }
+
+
+
+
+
+
+
 
 
 /* 
@@ -311,6 +336,14 @@ This is the CSS control for the media Queries
 ============================================================================================
 */ 
 
+@media all and (min-width: 960px) {
+  
+}
+
+@media all and (max-width: 959px) and (min-width: 600px) {
+  
+}
+
 @media all and (max-width: 599px) and (min-width: 320px) {
  
   
@@ -350,6 +383,14 @@ This is the CSS control for the media Queries
   color: #ffcd00;
   font-weight: bold;
   font-size: 30px;
+  }
+
+  .vertical-center {
+    min-height: 100%; 
+    min-height: 30vh; 
+  
+    display: flex;
+    align-items: center;
   }
 
 .banner-advert {
