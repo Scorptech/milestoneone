@@ -182,7 +182,7 @@ This is the CSS control for Who We Are
   }
 
 .whoarewe .col-md-6 {
-  padding: 5px 5px 20px 5px;
+  /* padding: 0 5px 20px 5px; */
   margin-bottom: 20px;
   background-color: #fff;
   }
@@ -190,6 +190,17 @@ This is the CSS control for Who We Are
   .whoarewe .col-md-8 {
    background-color: #fff;
      }
+
+
+.colright {
+  text-align: right;
+  padding: 0 10px 0 0;
+}
+
+.colleft {
+  text-align: left;
+  padding: 0 0 0 10px;
+}
 
 
 
@@ -230,14 +241,6 @@ This is the CSS control for Let Us Help You
     display: flex;
     align-items: center;
   }
-
-
-
-
-
-
-
-
 
 /* 
 ============================================================================================
@@ -317,9 +320,6 @@ This is the CSS control for the Footer section
 
 
 
-
-
-
 /*
   
   * {
@@ -329,6 +329,7 @@ This is the CSS control for the Footer section
     }  
     
 */
+
 
 /*
 ============================================================================================
@@ -393,6 +394,18 @@ This is the CSS control for the media Queries
     align-items: center;
   }
 
+
+  .colright {
+    text-align: center;
+    padding: 0 0 30px 0;
+    }
+  
+  .colleft {
+    text-align: center;
+    padding: 0 0 30px 0;
+  }
+
+
 .banner-advert {
   Background-color: #525252;
   color: white;
@@ -404,9 +417,6 @@ This is the CSS control for the media Queries
 .banner-advert .col-md-8 {
   margin: 0 10px 20px 10px;
   }
-
-
-
 
 
 .btn--cta {
