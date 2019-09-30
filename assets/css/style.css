@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
-
-
 /*==============================================
 @Author: Alan Maher
 @URL: https://scorptech.github.io/milestoneone/
@@ -26,10 +24,9 @@ body, html {
     }
 
 .row {
-  padding-right: 0px;
-  padding-left: 0px;
-  }
-
+    padding-right: 0px;
+    padding-left: 0px;
+     }
 
 
 /*
@@ -40,25 +37,25 @@ This is the CSS control for the Top Bar
 
 
 .topbar {
-  background-color: #525252; 
-  }
+    background-color: #525252; 
+    }
 
 
 .topbar .col-sm-3 {
-  display: inline-block;
-  padding: 5px;
-  width: 400px;
-  color: #fff;
- }
+    display: inline-block;
+    padding: 5px;
+    width: 400px;
+    color: #fff;
+    }
 
 .bg-light {
-  background-color: #fff !important;
-}   
+    background-color: #fff !important;
+   }   
 
 
 .social-links {
-  padding: 0 0 5px 0;
-  }
+    padding: 0 0 5px 0;
+    }
 
 .social-links li a i {
   width: 32px;
@@ -74,14 +71,11 @@ This is the CSS control for the Top Bar
   -moz-transition: all 0.35s ease-in-out;
   -webkit-transition: all 0.35s ease-in-out;
   -o-transition: all 0.35s ease-in-out;
-   
-}
+  }
 
 .social-links li a i:hover {
-  background: #ffcd00;
-}
-
-
+   background: #ffcd00;
+   }
 
 /* 
 ============================================================================================
@@ -90,22 +84,20 @@ This is the CSS control for the Nav Bar
 */ 
 
 .navbar-light .navbar-nav .nav-link {
-      color: #525252;
-      font-weight: 500;
-      font-family: "Roboto", sans-serif;
-      padding: 20px;
-}
+  color: #525252;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  padding: 20px;
+  }
 
 
 li .nav-item:active {
   color: #ffcd00;
-}
+  }
 
 .navbar-nav li a h6:hover  {
   color: #ffcd00
-}
-
-
+  }
 
 /* 
 ============================================================================================
@@ -124,7 +116,7 @@ This is the CSS control for the Carousel
   font-size: 30px;
   font-weight: 700;
   color: white;
-}
+  }
 
 .carousel-caption {
   width:100%;
@@ -232,8 +224,8 @@ This is the CSS control for Let Us Help You
   background: url('../images/work-bg.jpg') no-repeat center center fixed;
   background-size: cover;
   -webkit-background-size: cover;
- -moz-background-size: cover;
- -o-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   }
 
 .jumbotron h2 {
@@ -249,11 +241,10 @@ This is the CSS control for Let Us Help You
   }
 
 .vertical-center {
-    min-height: 100%; 
-    min-height: 70vh; 
-  
-    display: flex;
-    align-items: center;
+  min-height: 100%; 
+  min-height: 70vh; 
+  display: flex;
+  align-items: center;
   }
 
 /* 
@@ -271,8 +262,8 @@ This is the CSS control for Banner Advert
   }
   
 .banner-advert .btn-group-lg>.btn, .btn-lg {
-    margin-top: 0;
-    }
+  margin-top: 0;
+  }
 
 /*
 ============================================================================================
@@ -310,7 +301,7 @@ This is the CSS control for the Footer section
 ============================================================================================
 */  
 
-  .footer {
+.footer {
     background-color: #31353d;
     color: #fafafa;
     padding: 10px 0 10px 0;
@@ -321,20 +312,20 @@ This is the CSS control for the Footer section
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     color: #ffcd00;
-}
+    }
 
 .footer-icon-space {
     margin-bottom: 3px;
- }
+    }
 
 
- .fa {
-   margin-right: 3px;
- }
+.fa {
+    margin-right: 3px;
+    }
 
- .modal-body {
+.modal-body {
   background-color: #fbefbd;
- }
+  }
 
 /*
   
@@ -345,7 +336,6 @@ This is the CSS control for the Footer section
     }  
     
 */
-
 
 /* 
 ============================================================================================
@@ -362,23 +352,23 @@ This is the CSS control for The Team
   }
 
 .inner img{
-   transition: all 1.5s ease;
+  transition: all 1.5s ease;
   }
 
 .inner:hover img{
-   transform: scale(1.5); 
+  transform: scale(1.5); 
   }
 
 .row .justify-content-center {
   margin: 0;    
-}
+  }
 
 .justify-content-center {
   width: 80%;
   }
  
 .justify-content-center .col-md-4 {
-   margin: 15px 0 15px 0;
+  margin: 15px 0 15px 0;
   }
 
 
@@ -398,17 +388,30 @@ This is the CSS control for The Team
   cursor: pointer;
   width: 100%; 
   font-size: 18px;
-}
+  }
 
 a {
   text-decoration: none;
   font-size: 22px;
   color: black;
-}
+  }
 
 .btnformat button:hover, a:hover {
   opacity: 0.7;
+  }
+
+.ourteam h5 {
+   color: #ffcd00;
+   text-align: center   
 }
+
+.ourteam {
+   margin-top: 25px; 
+   }
+
+.ourteam2 {
+  Margin-bottom: 25px;
+   }
 
 
 /* 
@@ -437,8 +440,8 @@ textarea {
   }
 
 .form-control {
-    width: 95%;
-    margin: auto;
+  width: 95%;
+  margin: auto;
   } 
 
 .btn-primary {
@@ -446,13 +449,13 @@ textarea {
   background-color: #525252;
   border-color: #525252;
   margin-bottom: 10px;
-}
+  }
 
 .form-header {
   height: 60px;
   background-color: #525252;
   padding: 10px 0 0 10px;
-}
+  }
 
 .form-header-text {
   margin: 20px 0 20px 0;
@@ -460,9 +463,6 @@ textarea {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   }
-
-
-
 
 /*
 ============================================================================================
@@ -475,9 +475,14 @@ This is the CSS control for the media Queries
 } 
 
 @media all and (max-width: 959px) and (min-width: 600px) {
+  
+  .navbar-light .navbar-nav .nav-link {
+    padding: 5px;
+  }
+    
   .navbar {
     padding: 10px 40px 10px 20px;
-  } 
+    } 
 
   .colright {
     text-align: right;
@@ -525,8 +530,8 @@ textarea {
   }
 
 .form-control {
-    width: 95%;
-    margin: auto;
+  width: 95%;
+  margin: auto;
   } 
 
 .btn-primary {
@@ -534,13 +539,13 @@ textarea {
   background-color: #525252;
   border-color: #525252;
   margin-bottom: 10px;
-}
+  }
 
 .form-header {
   height: 60px;
   background-color: #525252;
   padding: 10px 0 0 10px;
-}
+  }
 
 .form-header-text {
   margin: 20px 0 20px 0;
@@ -555,6 +560,10 @@ textarea {
 @media all and (max-width: 599px) and (min-width: 320px) {
  
   
+  .navbar-light .navbar-nav .nav-link {
+    padding: 5px;
+  }
+
   .carousel-caption .innovate h1 {
     color: #ffcd00;
     font-weight: bold;
@@ -566,7 +575,7 @@ textarea {
     font-size: 20px;
     font-weight: 700;
     color: white;
-  }
+    }
 
   .jumbotron {
     height: 20vh;
@@ -576,9 +585,9 @@ textarea {
     background: url('../images/work-bg.jpg') no-repeat center center fixed;
     background-size: cover;
     -webkit-background-size: cover;
-   -moz-background-size: cover;
-   -o-background-size: cover;
-  }
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    }
   
 .jumbotron h2 {
   color: white;
@@ -592,23 +601,23 @@ textarea {
   font-size: 30px;
   }
 
-  .vertical-center {
-    min-height: 100%; 
-    min-height: 30vh; 
-  
-    display: flex;
-    align-items: center;
+.vertical-center {
+  min-height: 100%; 
+  min-height: 30vh; 
+  display: flex;
+  align-items: center;
+  padding: 0 10px 0 10px;
   }
 
 
-  .colright {
-    text-align: center;
-    padding: 0 0 30px 0;
-    }
+.colright {
+  text-align: center;
+  padding: 0 0 30px 0;
+  }
   
-  .colleft {
-    text-align: center;
-    padding: 0 0 30px 0;
+.colleft {
+  text-align: center;
+  padding: 0 0 30px 0;
   }
 
 
@@ -651,6 +660,11 @@ This is the CSS control for the media Queries on The Team Page
   margin: auto;
   }
 
+  .ourteam2 .col-md-4 {
+    margin-bottom: 30px;
+    }
+
+
 /* 
 ============================================================================================
 This is the CSS control for The Contact Page 
@@ -676,8 +690,8 @@ textarea {
   }
 
 .form-control {
-    width: 95%;
-    margin: auto;
+  width: 95%;
+  margin: auto;
   } 
 
 .btn-primary {
@@ -685,13 +699,13 @@ textarea {
   background-color: #525252;
   border-color: #525252;
   margin-bottom: 10px;
-}
+  }
 
 .form-header {
   height: 60px;
   background-color: #525252;
   padding: 10px 0 0 10px;
-}
+  }
 
 .form-header-text {
   margin: 20px 0 20px 0;
