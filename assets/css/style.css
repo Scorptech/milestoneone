@@ -332,7 +332,9 @@ This is the CSS control for the Footer section
    margin-right: 3px;
  }
 
-
+ .modal-body {
+  background-color: #fbefbd;
+ }
 
 /*
   
@@ -409,6 +411,58 @@ a {
 }
 
 
+/* 
+============================================================================================
+This is the CSS control for The Contact Page 
+============================================================================================
+*/ 
+
+
+form {
+	width:50%;
+  text-align: center;
+  margin:0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: #ffcd00;
+  /* border: 1px solid #ced4da;*/
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+textarea {
+  resize: vertical;
+  max-height: 400px;
+  }
+
+.form-control {
+    width: 95%;
+    margin: auto;
+  } 
+
+.btn-primary {
+  color: #fff;
+  background-color: #525252;
+  border-color: #525252;
+  margin-bottom: 10px;
+}
+
+.form-header {
+  height: 60px;
+  background-color: #525252;
+  padding: 10px 0 0 10px;
+}
+
+.form-header-text {
+  margin: 20px 0 20px 0;
+  color: #525252;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  }
+
+
+
 
 /*
 ============================================================================================
@@ -446,7 +500,56 @@ This is the CSS control for the media Queries
   margin: auto;
   }
 
+/* 
+============================================================================================
+This is the CSS control for The Contact Page 
+============================================================================================
+*/ 
+
+form {
+	width:80%;
+  text-align: center;
+  margin:0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: #ffcd00;
+  /* border: 1px solid #ced4da;*/
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
+
+textarea {
+  resize: vertical;
+  max-height: 400px;
+  }
+
+.form-control {
+    width: 95%;
+    margin: auto;
+  } 
+
+.btn-primary {
+  color: #fff;
+  background-color: #525252;
+  border-color: #525252;
+  margin-bottom: 10px;
+}
+
+.form-header {
+  height: 60px;
+  background-color: #525252;
+  padding: 10px 0 0 10px;
+}
+
+.form-header-text {
+  margin: 20px 0 20px 0;
+  color: #525252;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  }
+
+}
    
 
 @media all and (max-width: 599px) and (min-width: 320px) {
@@ -546,6 +649,55 @@ This is the CSS control for the media Queries on The Team Page
 .justify-content-center {
   width: 100%;
   margin: auto;
+  }
+
+/* 
+============================================================================================
+This is the CSS control for The Contact Page 
+============================================================================================
+*/ 
+
+form {
+	width:80%;
+  text-align: center;
+  margin:0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: #ffcd00;
+  /* border: 1px solid #ced4da;*/
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+textarea {
+  resize: vertical;
+  max-height: 400px;
+  }
+
+.form-control {
+    width: 95%;
+    margin: auto;
+  } 
+
+.btn-primary {
+  color: #fff;
+  background-color: #525252;
+  border-color: #525252;
+  margin-bottom: 10px;
+}
+
+.form-header {
+  height: 60px;
+  background-color: #525252;
+  padding: 10px 0 0 10px;
+}
+
+.form-header-text {
+  margin: 20px 0 20px 0;
+  color: #525252;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
   }
 
 }
