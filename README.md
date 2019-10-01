@@ -148,6 +148,12 @@ The Contact page features a **contact form**, which requests client name and ema
 
 -   The code was validated using the (https://www.w3.org/) website  
 
+
+## Testing
+
+Testing information can be found in a separate [Testing file] (https://github.com/Scorptech/milestoneone/blob/master/TESTING.md)
+
+
 ## Deployment
 
 This project was developed using [Visual Studio Code IDE ](https://https://code.visualstudio.com), committed to git and pushed to GitHub using the github windows desktop version for visual studio code.
