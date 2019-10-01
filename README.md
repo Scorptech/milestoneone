@@ -46,6 +46,8 @@ The customer goals of this website are:
 
 ##### This project is the best way to help them achieve these things because:
 
+As this website is based on the buiiding and construction industry, the color yellow is highly significant as this relates to the likes of JCB equipment and DeWalt equipment like drills and power saws etc. So the theme had to revolve around this colour scheme. 
+
 -   Most builders do not have a website.
 -   Most of the builders websites on the internet that are active, do not offer a turnkey solution
 -   You will be given the option to visit work completed with previous customers.
@@ -69,32 +71,32 @@ The customer goals of this website are:
 
 ##### Wireframe mockups:
 
-* Bullet <img src="wireframes/1-home.jpg" alt="WeBuilder Website | Home Page" />Home Page
+* Home Page 
+<img src="wireframes/1-home.jpg" alt="WeBuilder Website | Home Page" />Home Page
 The Team 
 Contact Us   
 
 ## Features
 
-Each page has the company details at the **Top Bar** which has company details and also the **Social media Icons** for social media pages.
-Each page features a responsive **navigation bar** with conventional placing of **logo** (top left). Each page has a **footer** with **copyright information** and **social media icons** linking to 6 social media pages.
+Each page has the company details at the **Top Bar** and also the **Social media Icons** for social media pages.  Each page features a responsive **navigation bar** with conventional placing of **logo** (top left). Each page has a **footer** with **copyright information** and **social media icons** linking to 6 social media pages.
 
 Every page has **consistent design** except for the content section which displays the relevant information for that selected page.
 
 ##### Home
 
-The Home page features a **image carousel** which gives an animated feel to the website for maximum impact on arriving at the website. This is switched off  while not using up people's data unnecessarily on mobile and tablet devices.
+The Home page features a **image carousel** which gives an animated feel to the website for maximum impact on arriving at the website. The image of the men is removed for mobile and tablet devices to reduce unneccessary load times.
 
 Ther are two modal buttons which you can press to **request a qoute** from the builder.  
 
 ##### The Team
 
-The Team page features **Staff Cards** which change from color to black and white when you hover over the images. It is always good to see who
-the people are that work for the company which makes a more _personal_.
+The Team page features **Staff Cards** which provide in detaila who the members of staff are. When you hover over the image, the image increases in scale.
+It is always good to see who the people are that work for the company which makes a more _personal_.
 
 At the bottom of the page (above the footer) are is a yellow bar with more **company information**. 
 
 ##### Contact
-The Contact page features a **contact form**, which requests client name and email and below that a box to leave a message. The bottom of the form contains a **Send Button**
+The Contact page features a **contact form**, which requests client name and email and below that, a box to leave a message. The bottom of the form contains a **Send Button**
 
 ### Existing Features
 
@@ -123,21 +125,26 @@ The Contact page features a **contact form**, which requests client name and ema
 
 ### Features to Implement in future
 
--   GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal data. Ensures the business        complies with the EU data protection law. - Javascript Needed
+-   GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal data. Ensures the business             complies with the EU data protection law. - Javascript Needed
 -   Add CAPTCHA to contact form - Allows business to protect the contact form from spam. - Javascript Needed
 -   contact form Send button change from _Send_ to _Processing_ and then when complete changes to _Sent_. - Javascript Needed
--   FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential customers easy to find answers to their common questions. - Javascript     Needed for dropdown functionality. Simple FAQ page could be implemented now.
+-   FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential customers easy to find answers to their common questions. - Javascript          Needed for dropdown functionality. Simple FAQ page could be implemented now.
 
 ## Technologies Used
 
 -   This project uses HTML and CSS programming languages.
+
 -   [Visual Studio Code](https://code.visualstudio.com/) - This developer used **Visual Studio Code** for their IDE while building the website.
+
 -   [BootstrapCDN](https://www.bootstrapcdn.com/)
+
 -   The project uses **Bootstrap4** to simplify the structure of the website and make the website responsive easily.
+
 -   The project also uses BootstrapCDN to provide icons from [FontAwesome](https://www.bootstrapcdn.com/fontawesome/)
--   [Google Fonts](https://fonts.google.com/)
+
 -   The project uses **Google fonts** to style the website fonts.
 
+-   The code was validated using the (https://www.w3.org/) website  
 
 ## Deployment
 
@@ -152,8 +159,6 @@ To deploy this page to GitHub Pages from its [GitHub repository](https://scorpte
 5.  Under **Source** click the drop-down menu labelled **None** and select **Master Branch**
 6.  On selecting Master Branch the page is automatically refreshed, the website is now deployed.
 7.  Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.
-
-At the moment of submitting this Milestone project the Development Branch and Master Branch are identical.
 
 ### How to run this project locally
 
@@ -174,12 +179,12 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 ### Content
 
--   The text for the Home page and About page was created for Alan Maher by (www.linkedin.com/in/alanjmaher).
+-   The text for the Home page and the team page was created for Alan Maher by (www.linkedin.com/in/alanjmaher).
 -   The text for the rest of the website was created by Alan Maher and proof-read/edited(www.linkedin.com/in/alanjmaher).
 
 ### Media
 
--   All the images used in this site were obtained from a free website theme by Rocky Ahmed.
+-   All the images used in this site were obtained from a free Wordpress website theme by Rocky Ahmed http://rocky.wethemez.com. 
 
 ### Code
 
@@ -187,9 +192,13 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 ### Acknowledgements
 
--   I received inspiration for this project after dealing with the family builder, Willie, go about project managing a building contract for my mother-in-law and seeing the re-development first hand. 
+-   I received inspiration for this project after dealing with the family builder, Willie, when he was hired to project manage a building contract for my            mother-in-law and seeing the re-development first hand. 
 
 -   My mentor Simen Daehlin guided me on how to investigate and find CSS issues using the inspect tool like a detective looking for evidence! 
+
+-   The inspiration for the design and some of the images came from a free Wordpress theme designed by Rocky Ahmed http://rocky.wethemez.com.
+
+-   Bootstap and CSS Coding ideas came from https://mdbootstrap.com
 
 #### Disclaimer
 
@@ -199,5 +208,5 @@ Many thanks!
 
 Alan
 
-<img src="assets/images/responsive-image.jpg" alt="WeBuilder Website" style="float: left; margin-right: 10px;" />
+<img src="assets/images/responsive-image.jpg" alt="WeBuilder Website | Responsive Image" style="float: left; margin-right: 10px;" />
 

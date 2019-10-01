@@ -145,7 +145,6 @@ This is the CSS control for the "Request A Quote" button
 .btn--yellow {
   color: black;
   background-color: #ffcd00;
-  border-color: #ffcd00;
   }
 
 .btn--yellow:hover,
@@ -153,7 +152,7 @@ This is the CSS control for the "Request A Quote" button
 .btn--yellow:focus,
 .btn--yellow:active:focus {
   background-color: #edc938;
-  border-color: #edc938;
+  /* border-color: #edc938; */
   color: black;
   }
 
@@ -448,7 +447,6 @@ textarea {
 .btn-primary {
   color: #fff;
   background-color: #525252;
-  border-color: #525252;
   margin-bottom: 10px;
   }
 
@@ -538,7 +536,6 @@ textarea {
 .btn-primary {
   color: #fff;
   background-color: #525252;
-  border-color: #525252;
   margin-bottom: 10px;
   }
 
@@ -698,7 +695,6 @@ textarea {
 .btn-primary {
   color: #fff;
   background-color: #525252;
-  border-color: #525252;
   margin-bottom: 10px;
   }
 
