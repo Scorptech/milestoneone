@@ -5,9 +5,9 @@
 You can check out my milestone at -   https://github.com/Scorptech/MilestoneOne
 
 
-The idea for this mock up website came about when speaking a builder that has been doing work for my family over the last few years.  The builders name is “Willie” and he is highly recommended by everyone as his workmanship and project management skills have always been spot on, hence why he is always in demand to a level that he would only need a website for internet presence, not for work. 
+The idea for this mock up website came about when speaking a builder that completed a number of projects for my family over the last few years.  The builders name is “Willie” and he is highly recommended by everyone as his workmanship and project management skills have always been spot on, hence why he is always in demand to a level that he would only need a website for internet presence, not for work. 
 
-After having Willie complete some work for a family member I found out that having a website for internet presence is something that he would like to do but he just does not have the time to allocate to it. So for my first milestone project, I wanted to design a mock up website for Willie so the next time I see him, I can show him.
+After having Willie complete some work for a family member I found out that having a website for internet presence is something that he would like to do but he just does not have the time to allocate to it. So for my first milestone project, I wanted to design a mock up website for Willie so the next time I see him, I could show him.
 
 His business is unique as he offers a “turnkey” solution. So instead of customers hiring a builder, plumber, electrician etc, Willie can come in and project manage the development as he has his own team of people covering all the areas required for construction. This takes a huge amount of stress off the customer. 
 
@@ -46,7 +46,7 @@ The customer goals of this website are:
 
 ##### This project is the best way to help them achieve these things because:
 
-As this website is based on the buiiding and construction industry, the color yellow is highly significant as this relates to the likes of JCB equipment and DeWalt equipment like drills and power saws etc. So the theme had to revolve around this colour scheme. 
+As this website is based on the building and construction industry, the color yellow is highly significant as this relates to the likes of JCB equipment and DeWalt equipment like drills and power saws etc. So the theme had to revolve around this colour scheme. 
 
 -   Most builders do not have a website.
 -   Most of the builders websites on the internet that are active, do not offer a turnkey solution
@@ -210,5 +210,5 @@ Many thanks!
 
 Alan
 
-<img src="assets/images/responsive-image.jpg" alt="WeBuilder Website | Responsive Image" style="float: left; margin-right: 10px;" />
+<img src="assets/images/responsive-image.jpg" alt="WeBuilder Website | Responsive Image"/>
 
