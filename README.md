@@ -194,5 +194,5 @@ Many thanks!
 
 Alan
 
-
+<img src="assets/images/responsive-image.jpg" alt="WeBuilder Website" style="float: left; margin-right: 10px;" />
 
