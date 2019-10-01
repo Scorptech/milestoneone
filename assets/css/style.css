@@ -402,8 +402,9 @@ a {
 
 .ourteam h5 {
    color: #ffcd00;
-   text-align: center   
-}
+   text-align: center;
+   margin-bottom: 25px;
+   }
 
 .ourteam {
    margin-top: 25px; 
