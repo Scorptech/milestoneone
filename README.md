@@ -5,21 +5,21 @@
 You can check out my milestone at -   https://github.com/Scorptech/MilestoneOne
 
 
-The idea for this mock up website came about when speaking a builder that has been doing work for my family over the last few years.  The builders name is “Willie” and he is highly recommended by everyone as his workmanship and project management skills have always been spot on, hence why he is always in demand.
+The idea for this mock up website came about when speaking a builder that has been doing work for my family over the last few years.  The builders name is “Willie” and he is highly recommended by everyone as his workmanship and project management skills have always been spot on, hence why he is always in demand to a level that he would only need a website for internet presence, not for work. 
 
-After having Willie complete some work for a family member I found out that this is something that he would like to do but just does not have the time to allocate to it. So for my first milestone project, I wanted to design a mock up site for Willie so the next time I see him, I can show him.
+After having Willie complete some work for a family member I found out that having a website for internet presence is something that he would like to do but he just does not have the time to allocate to it. So for my first milestone project, I wanted to design a mock up website for Willie so the next time I see him, I can show him.
 
-His business is unique as he offers a “turnkey” solution. So instead of customers hiring a builder, plumber, electrician etc, Willie can come in and project managed the development as he has his own team of people covering all the areas required for construction. This takes a huge amount of stress off the customer. 
+His business is unique as he offers a “turnkey” solution. So instead of customers hiring a builder, plumber, electrician etc, Willie can come in and project manage the development as he has his own team of people covering all the areas required for construction. This takes a huge amount of stress off the customer. 
 
-Normally companies would have a photo gallery of previous work but we all know that some of these companies download library images for their website, hence why there is no photo gallery of previous work on the website. Willie prefers customers to visit customers and see the work for themselves. In most cases, this is how he gets new business, people seeing his work and then they contact him. 
+Normally companies would have a photo gallery of previous work but we all know that some of these companies download library images for their website, hence why there is no photo gallery of previous work on the website. Willie prefers customers to personally visit previous work that he completed. In most cases, this is how he targets new business - people see his work and then they contact him. 
 
-So the website is purely for customers who just want to get a ball park figure regarding costs. Then they can decide if they want to move forward after Willie has given them the quote. In most cases, this is what people want to know i.e. this is what I want, how much will it cost me?
+So the website is purely for customers who just want to get a ball park figure regarding costs. They can then decide if they want to move forward after Willie has given them an estimate. In most cases, this is what people want to know i.e. What is the cost and how long will it take?
 
 The business goals of this website are:
 
 -   To give people the option to request a quote without phoning Willie and taking up his time
 -   The give customers an uncluttered, easy to use and graphically pleasing website experience
--   To allow customer to request for quotes 24/7 and to also request information regarding previous work
+-   To allow customer to request quotes 24/7 and to also request information regarding previous work
 
 The customer goals of this website are:
 
@@ -34,7 +34,8 @@ The customer goals of this website are:
 ##### The ideal client for this business is:
 
 -   English speaking.
--   Has funding for the project they require
+-   Have approved funding for the project they require
+-   Have approved building plans  
 -   Are happy to leave Willie and his team to get on with the work without micro-managing 
 -   Understands that building regulations can affect the cost of a project  
 
@@ -59,14 +60,18 @@ The customer goals of this website are:
 ##### Client stories
 
 1.  As a new visitor to the website, I want to easily navigate the site and feel comfortable with the builder and his commitment 
-2.  As a new visitor to the website, I want the ability to request a quote for some construction  work I require. A ball park figure is all I need now,         which will determine whether I go ahead with the construction. 
+2.  As a new visitor to the website, I want the ability to request a quote for some construction work I require. A ball park figure is all I need now,               which will determine whether I go ahead with the construction. 
 3.  As a potential client, I want the option to view the builders previous work and speak to existing customers regarding the service they received.
-6.  As an interested client, I want to understand what might be involved in a project before I make an decisions. The ability to request a quote means that     I will receive information that will be me an initial idea as to whether I can proceed with the project.
-7.  As an interested client, I want an easy to fill in contact form, so I can make contact with the builder should I need general building information.
+6.  As an interested client, I want to understand what might be involved in a project before I make an decisions. The ability to request a quote means that          I will receive information that will give me an initial idea as to whether I can proceed with the project.
+7.  As an interested client, I want an "easy to fill" contact form, so I can make contact with the builder should I need general building information.
 8.  As an interested observer and/or potential client, I want to follow the builder on social media to keep up with his latest news.
-9.  As a returning visitor to the website, who has already decided to contact the builder using the contact form, I want to be able to find the request a quote based on my initial enquiry.
+9.  As a returning visitor to the website, who has already decided to contact the builder using the contact form, I want to be able to find the request a quote      based on my initial enquiry.
 
 ##### Wireframe mockups:
+
+* Bullet <img src="/wireframe/1-home.jpg" alt="WeBuilder Website | Home Page" />Home Page
+The Team 
+Contact Us   
 
 ## Features
 
