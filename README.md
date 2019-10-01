@@ -69,7 +69,7 @@ The customer goals of this website are:
 
 ##### Wireframe mockups:
 
-* Bullet <img src="/wireframe/1-home.jpg" alt="WeBuilder Website | Home Page" />Home Page
+* Bullet <img src="wireframes/1-home.jpg" alt="WeBuilder Website | Home Page" />Home Page
 The Team 
 Contact Us   
 
