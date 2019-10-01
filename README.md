@@ -71,8 +71,10 @@ As this website is based on the buiiding and construction industry, the color ye
 
 ##### Wireframe mockups:
 
-* Home Page 
-<img src="wireframes/1-home.jpg" alt="WeBuilder Website | Home Page" />Home Page
+* [Home Page] (https://github.com/Scorptech/milestoneone)
+
+
+Home Page
 The Team 
 Contact Us   
 
