@@ -71,12 +71,12 @@ As this website is based on the buiiding and construction industry, the color ye
 
 ##### Wireframe mockups:
 
-* [Home Page] (https://github.com/Scorptech/milestoneone)
+* [Home Page] (https://github.com/Scorptech/milestoneone/blob/master/wireframes/1-home.jpg)
 
+* [The Team Page] (https://github.com/Scorptech/milestoneone/blob/master/wireframes/2-theteam.jpg)
 
-Home Page
-The Team 
-Contact Us   
+* [Contact Page] (https://github.com/Scorptech/milestoneone/blob/master/wireframes/3-contact.jpg)
+
 
 ## Features
 
