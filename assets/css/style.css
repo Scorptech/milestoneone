@@ -246,6 +246,7 @@ This is the CSS control for Let Us Help You
   align-items: center;
   }
 
+
 /* 
 ============================================================================================
 This is the CSS control for Banner Advert
@@ -353,10 +354,12 @@ This is the CSS control for The Team
 .inner img{
   transition: all 1.5s ease;
   }
+  
 
 .inner:hover img{
   transform: scale(1.5); 
   }
+
 
 .row .justify-content-center {
   margin: 0;    
@@ -433,6 +436,7 @@ form {
   font-weight: 500;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
+  
 
 textarea {
   resize: vertical;
@@ -522,6 +526,7 @@ form {
   font-weight: 500;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
+   
 
 textarea {
   resize: vertical;
@@ -601,12 +606,11 @@ textarea {
 
 .vertical-center {
   min-height: 100%; 
-  min-height: 30vh; 
+  min-height: 30vh;
   display: flex;
   align-items: center;
   padding: 0 10px 0 10px;
   }
-
 
 .colright {
   text-align: center;
@@ -681,6 +685,7 @@ form {
   font-weight: 500;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
+  
 
 textarea {
   resize: vertical;

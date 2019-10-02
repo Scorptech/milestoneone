@@ -15,21 +15,16 @@ The developer used W3C CSS Validation Service and W3C Markup Validation Service 
 
 #### Most common path through the website:
 
-    Home > Gallery > Pricing > How to Order > Contact
-    Each of these pages points clearly to the next one with a call to action button. In some places the customer may have a different question in their mind, so a second button is also provided.
+    Home > The Team > > Contact
+    Each of these pages points clearly to the next one. 
 
-The About page is not necessarily part of the flow of the site for users, but it has been included to offer information about the artist for those who are curious about her. The information here is kept short as to not overload the user.
-
-Some pages offer two possible paths in their call to action buttons:
-
-    From About > Gallery OR How to Order
-    From Gallery > Pricing OR How to Order
+The "Team" page offers information about the staff. The information here is kept short with a brief description.
 
 Testing client stories from UX section of README.md
 
     As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently.
         No matter what page the new visitor lands on, they can easily find and use the navigation bar.
-        The logo image always leads back to the home page (the starting place for most client stories).
+        The logo image always leads back to the home page (the starting place for most clients).
         The home page call to action button leads the client through the gallery.
 
     As a new visitor to the website, I want view this artist's gallery, and view their work in detail so I can decide if I want to commission their work.
