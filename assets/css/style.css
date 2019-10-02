@@ -182,13 +182,13 @@ This is the CSS control for Who We Are
 
 .whoarewe h6 {
   text-align: justify;
-  padding: 0 10px 30px 10px;
+  padding: 0 300px 30px 300px;
   font-weight: 300;
   font-family: "Roboto", sans-serif;
   }
 
 .whoarewe .col-md-6 {
-  margin-bottom: 20px;
+  margin-bottom: 50px;
   background-color: #fff;
   }
 
@@ -206,6 +206,7 @@ This is the CSS control for Who We Are
   text-align: left;
   padding: 0 0 0 10px;
   }
+
 
 
 
@@ -473,7 +474,8 @@ This is the CSS control for the media Queries
 ============================================================================================
 */ 
 
-@media all and (min-width: 960px) {
+@media all and (min-width: 660px) {
+
 
 
 } 
@@ -497,6 +499,15 @@ This is the CSS control for the media Queries
     text-align: left;
     padding: 0 0 30px 10px;
   }
+
+  .whoarewe h6 {
+    text-align: justify;
+    padding: 0 10px 30px 10px;
+    font-weight: 300;
+    font-family: "Roboto", sans-serif;
+    }
+
+
 
 /*  
 ============================================================================================
@@ -568,6 +579,10 @@ textarea {
   padding: 5px;
   }
 
+.navbar {
+  padding: 10px 40px 10px 20px;
+  } 
+
 .carousel-caption .innovate h1 {
   color: #ffcd00;
   font-weight: bold;
@@ -622,6 +637,13 @@ textarea {
   text-align: center;
   padding: 0 0 30px 0;
   }
+
+  .whoarewe h6 {
+    text-align: justify;
+    padding: 0 10px 30px 10px;
+    font-weight: 300;
+    font-family: "Roboto", sans-serif;
+    }
 
 
 .banner-advert {

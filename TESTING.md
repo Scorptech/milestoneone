@@ -124,7 +124,9 @@ coded the website according the bootstrap guidelines.
         Repeat verification steps done for carousel on home page.
 
     Contact form:
-        Reduce and expand width of window to verify that the form display behaves and centres the way expected, and that it looks good on all device widths.
+        Reduce and expand width of window to verify that the form display 
+        behaves and centres the way expected, and that it looks good on 
+        all device widths.
 
     Footer:
         Footer code is identical on all html pages. Testing already completed.
