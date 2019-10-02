@@ -42,7 +42,7 @@ The customer goals of this website are:
 ##### Visitors to this website are searching for:
 
 -   A company that can offer a turnkey solution and manage their project from start to finish
--   Being patient regarding their quote request as building regulation information might need to be researched before an estimated quote is provided
+-   Being patient regarding their quote request as building regulation information might need to be researched before an            estimated quote is provided
 
 ##### This project is the best way to help them achieve these things because:
 
@@ -62,12 +62,12 @@ As this website is based on the building and construction industry, the color ye
 ##### Client stories
 
 1.  As a new visitor to the website, I want to easily navigate the site and feel comfortable with the builder and his commitment 
-2.  As a new visitor to the website, I want the ability to request a quote for some construction work I require. A ball park figure is all I need now,               which will determine whether I go ahead with the construction. 
+2.  As a new visitor to the website, I want the ability to request a quote for some construction work I require. A ball park figure is all I need now, which will determine whether I go ahead with the construction. 
 3.  As a potential client, I want the option to view the builders previous work and speak to existing customers regarding the service they received.
-6.  As an interested client, I want to understand what might be involved in a project before I make an decisions. The ability to request a quote means that          I will receive information that will give me an initial idea as to whether I can proceed with the project.
+6.  As an interested client, I want to understand what might be involved in a project before I make an decisions. The ability to request a quote means that I will receive information that will give me an initial idea as to whether I can proceed with the project.
 7.  As an interested client, I want an "easy to fill" contact form, so I can make contact with the builder should I need general building information.
 8.  As an interested observer and/or potential client, I want to follow the builder on social media to keep up with his latest news.
-9.  As a returning visitor to the website, who has already decided to contact the builder using the contact form, I want to be able to find the request a quote      based on my initial enquiry.
+9.  As a returning visitor to the website, who has already decided to contact the builder using the contact form, I want to be able to find the request a quote based on my initial enquiry.
 
 ##### Wireframe mockups:
 
@@ -127,16 +127,16 @@ The Contact page features a **contact form**, which requests client name and ema
 
 ### Features to Implement in future
 
--   GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal data. Ensures the business             complies with the EU data protection law. - Javascript Needed
+-   GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal       data. Ensures the business complies with the EU data protection law. - Javascript Needed
 -   Add CAPTCHA to contact form - Allows business to protect the contact form from spam. - Javascript Needed
 -   contact form Send button change from _Send_ to _Processing_ and then when complete changes to _Sent_. - Javascript Needed
--   FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential customers easy to find answers to their common questions. - Javascript          Needed for dropdown functionality. Simple FAQ page could be implemented now.
+-   FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential customers easy to find answers to their        common questions. - Javascript Needed for dropdown functionality. Simple FAQ page could be implemented now.
 
 ## Technologies Used
 
 -   This project uses HTML and CSS programming languages.
 
--   [Visual Studio Code](https://code.visualstudio.com/) - This developer used **Visual Studio Code** for their IDE while building the website.
+-   [Visual Studio Code](https://code.visualstudio.com/) - This developer used **Visual Studio Code** for their IDE while           building the website.
 
 -   [BootstrapCDN](https://www.bootstrapcdn.com/)
 
@@ -151,7 +151,7 @@ The Contact page features a **contact form**, which requests client name and ema
 
 ## Testing
 
-Testing information can be found in a separate [Testing file] (https://github.com/Scorptech/milestoneone/blob/master/TESTING.md)
+Testing information can be found in a separate Testing file (https://github.com/Scorptech/milestoneone/blob/master/TESTING.md)
 
 
 ## Deployment
@@ -192,7 +192,8 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 ### Media
 
--   All the images used in this site were obtained from a free Wordpress website theme by Rocky Ahmed http://rocky.wethemez.com. 
+-   All the images used in this site were obtained from a free Wordpress website theme by 
+    Rocky Ahmed http://rocky.wethemez.com. 
 
 ### Code
 
@@ -200,11 +201,12 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 ### Acknowledgements
 
--   I received inspiration for this project after dealing with the family builder, Willie, when he was hired to project manage a building contract for my            mother-in-law and seeing the re-development first hand. 
+-   I received inspiration for this project after dealing with the family builder, Willie, when he was hired to project manage      a building contract for my mother-in-law and seeing the re-development first hand. 
 
--   My mentor Simen Daehlin guided me on how to investigate and find CSS issues using the inspect tool like a detective looking for evidence! 
+-   My mentor Simen Daehlin guided me on how to investigate and find CSS issues using the inspect tool like a detective looking     for evidence! 
 
--   The inspiration for the design and some of the images came from a free Wordpress theme designed by Rocky Ahmed http://rocky.wethemez.com.
+-   The inspiration for the design and some of the images came from a free Wordpress theme designed by 
+    Rocky Ahmed http://rocky.wethemez.com.
 
 -   Bootstap and CSS Coding ideas came from https://mdbootstrap.com
 
