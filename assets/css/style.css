@@ -474,7 +474,8 @@ This is the CSS control for the media Queries
 */ 
 
 @media all and (min-width: 960px) {
-  
+
+
 } 
 
 @media all and (max-width: 959px) and (min-width: 600px) {
