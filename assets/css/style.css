@@ -424,9 +424,7 @@ This is the CSS control for The Contact Page
 ============================================================================================
 */ 
 
-/*
-
-form {
+.contactform form {
 	width:50%;
   text-align: center;
   margin:0 auto;
@@ -468,7 +466,7 @@ textarea {
   font-weight: 400;
   }
 
-*/
+
 
 
 /*
@@ -477,7 +475,7 @@ This is the CSS control for the media Queries
 ============================================================================================
 */ 
 
-@media all and (min-width: 660px) {
+@media all and (min-width: 960px) {
 
 
 
@@ -529,7 +527,7 @@ This is the CSS control for The Contact Page
 ============================================================================================
 */ 
 
-form {
+.contactform form {
 	width:80%;
   text-align: center;
   margin:0 auto;
@@ -699,7 +697,7 @@ This is the CSS control for The Contact Page
 ============================================================================================
 */ 
 
-form {
+.contactform form {
 	width:80%;
   text-align: center;
   margin:0 auto;
