@@ -424,6 +424,7 @@ This is the CSS control for The Contact Page
 ============================================================================================
 */ 
 
+/*
 
 form {
 	width:50%;
@@ -432,7 +433,6 @@ form {
   margin-top: 30px;
   margin-bottom: 30px;
   background-color: #ffcd00;
-  /* border: 1px solid #ced4da;*/
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -467,6 +467,9 @@ textarea {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   }
+
+*/
+
 
 /*
 ============================================================================================
