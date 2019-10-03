@@ -2,7 +2,9 @@
 <img src="assets/images/webuilder_mockup.jpg" alt="WeBuilder Website" style="float: left; margin-right: 10px;" />
 
 
-You can check out my milestone at -   https://github.com/Scorptech/MilestoneOne
+You can check out my Milestone repo at -   https://github.com/Scorptech/MilestoneOne
+
+You can check out the Milstone One project at - https://scorptech.github.io/milestoneone 
 
 
 The idea for this mock up website came about when speaking a builder that completed a number of projects for my family over the last few years.  The builders name is “Willie” and he is highly recommended by everyone as his workmanship and project management skills have always been spot on, hence why he is always in demand to a level that he would only need a website for internet presence, not for work. 
@@ -62,12 +64,12 @@ As this website is based on the building and construction industry, the color ye
 ##### Client stories
 
 1.  As a new visitor to the website, I want to easily navigate the site and feel comfortable with the builder and his commitment 
-2.  As a new visitor to the website, I want the ability to request a quote for some construction work I require. A ball park figure is all I need now, which will determine whether I go ahead with the construction. 
+2.  As a new visitor to the website, I want the ability to request a quote for some construction work I require. A ball park figure is all I need now, which will          determine whether I go ahead with the construction. 
 3.  As a potential client, I want the option to view the builders previous work and speak to existing customers regarding the service they received.
-6.  As an interested client, I want to understand what might be involved in a project before I make an decisions. The ability to request a quote means that I will receive information that will give me an initial idea as to whether I can proceed with the project.
+6.  As an interested client, I want to understand what might be involved in a project before I make an decisions. The ability to request a quote means that I will         receive information that will give me an initial idea as to whether I can proceed with the project.
 7.  As an interested client, I want an "easy to fill" contact form, so I can make contact with the builder should I need general building information.
 8.  As an interested observer and/or potential client, I want to follow the builder on social media to keep up with his latest news.
-9.  As a returning visitor to the website, who has already decided to contact the builder using the contact form, I want to be able to find the request a quote based on my initial enquiry.
+9.  As a returning visitor to the website, who has already decided to contact the builder using the contact form, I want to be able to find the request a quote based      on my initial enquiry.
 
 ##### Wireframe mockups:
 
@@ -103,34 +105,34 @@ The Contact page features a **contact form**, which requests client name and ema
 ### Existing Features
 
 -   Header Logo - Exists on [every page](https://scorptech.github.io/milestoneone/index.html). 
-    Clicking the logo returns the user to the home page as they would expect.
+Clicking the logo returns the user to the home page as they would expect.
 
 -   Header Navigation Bar - Exists on [every page](https://scorptech.github.io/milestoneone/index.html) 
-    and allows all users to easily navigate all the website's pages and find what they are looking for quickly.
+and allows all users to easily navigate all the website's pages and find what they are looking for quickly.
 
 -   Footer Copyright Info - Exists on [every page](https://scorptech.github.io/milestoneone/index.html/
-    Protects business copyright.
+Protects business copyright.
 
 -   Footer Social Icons - Exist on [every page](https://scorptech.github.io/milestoneone/index.html)
-    and allows all users to access the social platforms that the artist uses.
+and allows all users to access the social platforms that the artist uses.
 
 -   Request A Quote button - Exist on [every page](https://scorptech.github.io/milestoneone/index.html)
-    which enables the customer to request a quote for work that they need carrying out.
+which enables the customer to request a quote for work that they need carrying out.
 
 -   [The Team](https://scorptech.github.io/milestoneone/theteam.html)) 
-    Allows potential clients to see the staff and who is involved in the company.
+Allows potential clients to see the staff and who is involved in the company.
 
 -   [Contact Form](https://scorptech.github.io/milestoneone/theteam.html) 
-    Allows potential clients to ask questions, and/or make the first step with their queries.
+Allows potential clients to ask questions, and/or make the first step with their queries.
 
 
 
 ### Features to Implement in future
 
--   GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal       data. Ensures the business complies with the EU data protection law. - Javascript Needed
+-   GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal       data. Ensures the business             complies with the EU data protection law. - Javascript Needed
 -   Add CAPTCHA to contact form - Allows business to protect the contact form from spam. - Javascript Needed
 -   contact form Send button change from _Send_ to _Processing_ and then when complete changes to _Sent_. - Javascript Needed
--   FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential customers easy to find answers to their        common questions. - Javascript Needed for dropdown functionality. Simple FAQ page could be implemented now.
+-   FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential customers easy to find answers to their        common questions. - Javascript         Needed for dropdown functionality. Simple FAQ page could be implemented now.
 
 ## Technologies Used
 
