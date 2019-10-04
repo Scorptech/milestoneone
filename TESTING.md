@@ -16,6 +16,7 @@ The developer used W3C CSS Validation Service and W3C Markup Validation Service 
 #### Most common path through the website:
 
 Home > The Team > Contact
+
 Each of these pages points clearly to the next one. 
 
 ### The "Team" page offers information about the staff. The information here is kept short with a brief description.
@@ -62,7 +63,7 @@ Change the screen size from desktop to tablet to verify that the navigation bar 
 Hover over the images to verify that the alt text appears. During testing this did not happen, so I added a title attribute to all images  to fix
 Click on the logo in the navigation bar and verify that it links to the home page.
 Click on each navigation menu item and verify that it links to the correct page.
-Hover over the "request quote" button and verify the hover colour changes as expected.
+Hover over the "request a quote" button and verify the hover colour changes as expected.
 Click on the "request quote" button and verify that it loads the modal quote page.
 Change screen size to small and click burger icon, verify that the menu drops down and that the menu text is centred.
 Repeat verification of functionality and responsiveness on my mobile phone and tablet.
@@ -77,8 +78,7 @@ Reduce and expand width of window to make sure the the text resizes depending on
 Reduce and expand width of window to confirm that the text on the home page responds correctly and looks good on all device widths.
 
 ####  Request A Quote button:
-Hover over "Request A Quote" button and verify the hover colour change.
-Click the "Request A Quote"button and verify that it loads the modal form.
+Hover over "Request A Quote" button and verify the hover colour change. Click the "Request A Quote" button and verify that it loads the modal form.
 
 ####  Footer:
 Hover over each social media icon and confirm colour and size transitions expected.

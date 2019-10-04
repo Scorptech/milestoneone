@@ -95,7 +95,7 @@ Ther are two modal buttons which you can press to **request a quote** from the b
 #### The Team
 
 The Team page features **Staff Cards** which provide in detaila who the members of staff are. When you hover over the image, the image increases in scale.
-It is always good to see who the people are that work for the company which makes a more _personal_.
+It is always good to see who the people are that work for the company which makes a more personal.
 
 At the bottom of the page (above the footer) are is a yellow bar with more **company information**. 
 
@@ -104,19 +104,19 @@ The Contact page features a **contact form**, which requests client name and ema
 
 ### Existing Features
 
--   Header Logo - Exists on [every page](https://scorptech.github.io/milestoneone/index.html). 
+-   Header Logo - Exists on every page (https://scorptech.github.io/milestoneone/index.html). 
 Clicking the logo returns the user to the home page as they would expect.
 
--   Header Navigation Bar - Exists on [every page](https://scorptech.github.io/milestoneone/index.html) 
+-   Header Navigation Bar - Exists on every page (https://scorptech.github.io/milestoneone/index.html) 
 and allows all users to easily navigate all the website's pages and find what they are looking for quickly.
 
--   Footer Copyright Info - Exists on [every page](https://scorptech.github.io/milestoneone/index.html/
+-   Footer Copyright Info - Exists on every page (https://scorptech.github.io/milestoneone/index.html/
 Protects business copyright.
 
--   Footer Social Icons - Exist on [every page](https://scorptech.github.io/milestoneone/index.html)
+-   Footer Social Icons - Exist on every page (https://scorptech.github.io/milestoneone/index.html)
 and allows all users to access the social platforms that the artist uses.
 
--   Request A Quote button - Exist on [every page](https://scorptech.github.io/milestoneone/index.html)
+-   Request A Quote button - Exist on every page (https://scorptech.github.io/milestoneone/index.html)
 which enables the customer to request a quote for work that they need carrying out.
 
 -   [The Team] (https://scorptech.github.io/milestoneone/theteam.html) 
@@ -140,9 +140,7 @@ Allows potential clients to ask questions, and/or make the first step with their
 
 -   [Visual Studio Code](https://code.visualstudio.com/) - This developer used **Visual Studio Code** for their IDE while building the website.
 
--   [BootstrapCDN](https://www.bootstrapcdn.com/)
-
--   The project uses **Bootstrap4** to simplify the structure of the website and make the website responsive easily.
+-   [BootstrapCDN](https://www.bootstrapcdn.com/) The project uses **Bootstrap4** to simplify the structure of the website and make the website responsive easily.
 
 -   The project also uses BootstrapCDN to provide icons from [FontAwesome](https://www.bootstrapcdn.com/fontawesome/)
 
@@ -158,7 +156,7 @@ Testing information can be found in a separate Testing file (https://github.com/
 
 ## Deployment
 
-This project was developed using [Visual Studio Code IDE ](https://https://code.visualstudio.com), committed to git and pushed to GitHub using the github windows desktop version for visual studio code.
+This project was developed using [Visual Studio Code IDE (https://https://code.visualstudio.com), committed to git and pushed to GitHub using the github windows desktop version for visual studio code.
 
 To deploy this page to GitHub Pages from its [GitHub repository](https://scorptech.github.io/milestoneone/), the following steps were taken:
 
