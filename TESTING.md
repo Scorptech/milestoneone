@@ -53,7 +53,8 @@ coded the website according the bootstrap guidelines.
 
 #### Top bar:
 Initially had problems with the alignment of inline-block elements. Changed container to a Nav section header which then made all the
-inline-blocks line up. 
+inline-blocks line up.
+Added website links to the social icons.  
     
 ####  Navigation bar:
 Go to the "Home" page from a company logo.
@@ -82,6 +83,8 @@ Click the "Request A Quote"button and verify that it loads the modal form.
 ####  Footer:
 Hover over each social media icon and confirm colour and size transitions expected.
 Reduce and expand width of window to verify that the footer is responsive and looks good on all device widths.
+Check email link to make sure the colour changes and the link is active.
+Added website links to the social icons.  
 
 Review all functionality and responsiveness on my mobile phone and tablet.
 
@@ -102,7 +105,7 @@ Reduce and expand width of window to verify that each image behaves and centres 
 way expected, and that they look good on all device widths.
 
 ####  Page content:
-Reduce and expand width of window to verify that each staff card behaves the way expected and that the transitions expand and contract as
+Reduce and expand width of window to verify that each staff card behaves as expected and that the transitions expand and contract as
 expected. Check staff cards look good on all device widths.
 
 ####  Request A Quote buttons:
@@ -139,9 +142,9 @@ Review all functionality and responsiveness on my mobile phone and tablet.
 
 Due to a number of issues with an image in the home page content and speaking to CI tutors, mentors and slack students, I decided
 to remove this from the finished site as no solution that was given seemed to work with the image, so the best and easiest solution was
-to remove image although. 
+to remove image. 
  
-I viewed my website on several browsers and formatting was consistant.
+I viewed the website on several browsers and formatting was consistant.
 
 ### A note to my fellow Code Institute students
 
