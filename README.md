@@ -73,11 +73,11 @@ As this website is based on the building and construction industry, the color ye
 
 #### Wireframe mockups:
 
-* [Home Page] (https://github.com/Scorptech/milestoneone/blob/master/wireframes/1-home.jpg)
+* Home Page (https://github.com/Scorptech/milestoneone/blob/master/wireframes/1-home.jpg)
 
-* [The Team Page] (https://github.com/Scorptech/milestoneone/blob/master/wireframes/2-theteam.jpg)
+* The Team Page (https://github.com/Scorptech/milestoneone/blob/master/wireframes/2-theteam.jpg)
 
-* [Contact Page] (https://github.com/Scorptech/milestoneone/blob/master/wireframes/3-contact.jpg)
+* Contact Page (https://github.com/Scorptech/milestoneone/blob/master/wireframes/3-contact.jpg)
 
 
 ## Features
@@ -90,7 +90,7 @@ Every page has **consistent design** except for the content section which displa
 
 The Home page features a **image carousel** which gives an animated feel to the website for maximum impact on arriving at the website. The image of the men is removed for mobile and tablet devices to reduce unneccessary load times.
 
-Ther are two modal buttons which you can press to **request a qoute** from the builder.  
+Ther are two modal buttons which you can press to **request a quote** from the builder.  
 
 #### The Team
 
@@ -119,26 +119,26 @@ and allows all users to access the social platforms that the artist uses.
 -   Request A Quote button - Exist on [every page](https://scorptech.github.io/milestoneone/index.html)
 which enables the customer to request a quote for work that they need carrying out.
 
--   [The Team](https://scorptech.github.io/milestoneone/theteam.html)) 
+-   [The Team] (https://scorptech.github.io/milestoneone/theteam.html) 
 Allows potential clients to see the staff and who is involved in the company.
 
--   [Contact Form](https://scorptech.github.io/milestoneone/theteam.html) 
+-   [Contact Form] (https://scorptech.github.io/milestoneone/theteam.html) 
 Allows potential clients to ask questions, and/or make the first step with their queries.
 
 
 
 ### Features to Implement in future
 
--   GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal       data. Ensures the business             complies with the EU data protection law. - Javascript Needed
+-   GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal data. Ensures the business                complies with the EU data protection law. - Javascript Needed
 -   Add CAPTCHA to contact form - Allows business to protect the contact form from spam. - Javascript Needed
 -   contact form Send button change from _Send_ to _Processing_ and then when complete changes to _Sent_. - Javascript Needed
--   FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential customers easy to find answers to their        common questions. - Javascript         Needed for dropdown functionality. Simple FAQ page could be implemented now.
+-   FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential customers easy to find answers to their common questions. - Javascript             Needed for dropdown functionality. Simple FAQ page could be implemented now.
 
 ## Technologies Used
 
 -   This project uses HTML and CSS programming languages.
 
--   [Visual Studio Code](https://code.visualstudio.com/) - This developer used **Visual Studio Code** for their IDE while           building the website.
+-   [Visual Studio Code](https://code.visualstudio.com/) - This developer used **Visual Studio Code** for their IDE while building the website.
 
 -   [BootstrapCDN](https://www.bootstrapcdn.com/)
 
@@ -203,9 +203,9 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 ### Acknowledgements
 
--   I received inspiration for this project after dealing with the family builder, Willie, when he was hired to project manage      a building contract for my mother-in-law and seeing the re-development first hand. 
+-   I received inspiration for this project after dealing with the family builder, Willie, when he was hired to project manage a building contract for my mother-in-law and seeing the re-development first hand. 
 
--   My mentor Simen Daehlin guided me on how to investigate and find CSS issues using the inspect tool like a detective looking     for evidence! 
+-   My mentor Simen Daehlin guided me on how to investigate and find CSS issues using the inspect tool like a detective looking for evidence! 
 
 -   The inspiration for the design and some of the images came from a free Wordpress theme designed by 
     Rocky Ahmed http://rocky.wethemez.com.
