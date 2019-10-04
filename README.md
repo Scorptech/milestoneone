@@ -13,17 +13,17 @@ After having Willie complete some work for a family member I found out that havi
 
 His business is unique as he offers a “turnkey” solution. So instead of customers hiring a builder, plumber, electrician etc, Willie can come in and project manage the development as he has his own team of people covering all the areas required for construction. This takes a huge amount of stress off the customer. 
 
-Normally companies would have a photo gallery of previous work but we all know that some of these companies download library images for their website, hence why there is no photo gallery of previous work on the website. Willie prefers customers to personally visit previous work that he completed. In most cases, this is how he targets new business - people see his work and then they contact him. 
+Normally companies would have a photo gallery of previous work but we all know that some of these companies download library images for their website, hence why there is no photo gallery of previous work on the website. Willie prefers customers to personally view his previous work that he completed. In most cases, this is how he targets new business - people see his work and then they contact him. 
 
 So the website is purely for customers who just want to get a ball park figure regarding costs. They can then decide if they want to move forward after Willie has given them an estimate. In most cases, this is what people want to know i.e. What is the cost and how long will it take?
 
-The business goals of this website are:
+#### The business goals of this website are:
 
 -   To give people the option to request a quote without phoning Willie and taking up his time
 -   The give customers an uncluttered, easy to use and graphically pleasing website experience
 -   To allow customer to request quotes 24/7 and to also request information regarding previous work
 
-The customer goals of this website are:
+#### The customer goals of this website are:
 
 -   Searching for a building company that can offer a “turnkey” solution for their project.
 -   Clear easy navigation.
@@ -33,7 +33,7 @@ The customer goals of this website are:
 
 #### Ideal client
 
-##### The ideal client for this business is:
+#### The ideal client for this business is:
 
 -   English speaking.
 -   Have approved funding for the project they require
@@ -41,27 +41,27 @@ The customer goals of this website are:
 -   Are happy to leave Willie and his team to get on with the work without micro-managing 
 -   Understands that building regulations can affect the cost of a project  
 
-##### Visitors to this website are searching for:
+#### Visitors to this website are searching for:
 
 -   A company that can offer a turnkey solution and manage their project from start to finish
 -   Being patient regarding their quote request as building regulation information might need to be researched before an            estimated quote is provided
 
-##### This project is the best way to help them achieve these things because:
+#### This project is the best way to help them achieve these things because:
 
-As this website is based on the building and construction industry, the color yellow is highly significant as this relates to the likes of JCB equipment and DeWalt equipment like drills and power saws etc. So the theme had to revolve around this colour scheme. 
+As this website is based on the building and construction industry, the color yellow is highly significant as this relates to the likes of JCB equipment, clothes and DeWalt hardware like drills and power saws etc. So the theme had to revolve around this colour scheme. 
 
 -   Most builders do not have a website.
 -   Most of the builders websites on the internet that are active, do not offer a turnkey solution
 -   You will be given the option to visit work completed with previous customers.
 
--   This website is:
+#### This website is:
 
 -   Easy to navigate.
 -   Easy to understand and navigate the information.
 -   Gives the client the ability to request a quote 24/7.
 -   Guiding them to the goal of the website – request a quote or fill out the contact form.
 
-##### Client stories
+#### Client stories
 
 1.  As a new visitor to the website, I want to easily navigate the site and feel comfortable with the builder and his commitment 
 2.  As a new visitor to the website, I want the ability to request a quote for some construction work I require. A ball park figure is all I need now, which will          determine whether I go ahead with the construction. 
@@ -71,7 +71,7 @@ As this website is based on the building and construction industry, the color ye
 8.  As an interested observer and/or potential client, I want to follow the builder on social media to keep up with his latest news.
 9.  As a returning visitor to the website, who has already decided to contact the builder using the contact form, I want to be able to find the request a quote based      on my initial enquiry.
 
-##### Wireframe mockups:
+#### Wireframe mockups:
 
 * [Home Page] (https://github.com/Scorptech/milestoneone/blob/master/wireframes/1-home.jpg)
 
@@ -86,13 +86,13 @@ Each page has the company details at the **Top Bar** and also the **Social media
 
 Every page has **consistent design** except for the content section which displays the relevant information for that selected page.
 
-##### Home
+#### Home
 
 The Home page features a **image carousel** which gives an animated feel to the website for maximum impact on arriving at the website. The image of the men is removed for mobile and tablet devices to reduce unneccessary load times.
 
 Ther are two modal buttons which you can press to **request a qoute** from the builder.  
 
-##### The Team
+#### The Team
 
 The Team page features **Staff Cards** which provide in detaila who the members of staff are. When you hover over the image, the image increases in scale.
 It is always good to see who the people are that work for the company which makes a more _personal_.
