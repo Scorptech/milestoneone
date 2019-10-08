@@ -32,9 +32,7 @@ body, html {
 
 
 /*
-============================================================================================
-This is the CSS control for the Top Bar 
-============================================================================================
+Top Bar 
 */ 
 
 
@@ -80,9 +78,7 @@ This is the CSS control for the Top Bar
    }
 
 /* 
-============================================================================================
-This is the CSS control for the Nav Bar 
-============================================================================================
+Nav Bar 
 */ 
 
 .navbar-light .navbar-nav .nav-link {
@@ -102,9 +98,8 @@ li .nav-item:active {
   }
 
 /* 
-============================================================================================
-This is the CSS control for the Carousel 
-============================================================================================
+Carousel 
+
 */ 
 
 .carousel-caption .innovate h1 {
@@ -133,9 +128,7 @@ This is the CSS control for the Carousel
 
 
 /*
-============================================================================================
-This is the CSS control for the "Request A Quote" button 
-============================================================================================
+ "Request A Quote" button 
 */ 
 
 .btn--cta {
@@ -163,9 +156,7 @@ This is the CSS control for the "Request A Quote" button
 
 
 /* 
-============================================================================================
-This is the CSS control for Who We Are 
-============================================================================================
+Who We Are 
 */ 
 
 .whoarewe {
@@ -209,12 +200,8 @@ This is the CSS control for Who We Are
   }
 
 
-
-
 /* 
-============================================================================================
-This is the CSS control for Let Us Help You
-============================================================================================
+ Let Us Help You
 */
 
 .jumbotron {
@@ -257,9 +244,7 @@ This is the CSS control for Let Us Help You
 
 
 /* 
-============================================================================================
-This is the CSS control for Banner Advert
-============================================================================================
+Banner Advert
 */
 
 .banner-advert {
@@ -275,9 +260,7 @@ This is the CSS control for Banner Advert
   }
 
 /*
-============================================================================================
-This is the CSS control for the Yellow Bar section 
-============================================================================================
+Yellow Bar 
 */  
 
 
@@ -305,9 +288,7 @@ This is the CSS control for the Yellow Bar section
   }
 
 /*
-============================================================================================
-This is the CSS control for the Footer section 
-============================================================================================
+Footer 
 */  
 
 .footer {
@@ -351,20 +332,9 @@ This is the CSS control for the Footer section
       color: #ffcd00;
     }
 
-/*
-  
-  * {
-      background: #000 !important;
-      color: #0f0 !important;
-      outline: solid #f00 1px !important;
-    }  
-    
-*/
 
 /* 
-============================================================================================
-This is the CSS control for The Team 
-============================================================================================
+The Team 
 */ 
 
 .card .shadow {
@@ -442,10 +412,8 @@ a {
 
 
 /* 
-============================================================================================
-This is the CSS control for The Contact Page 
-============================================================================================
-*/ 
+Contact Page 
+*/
 
 .contactform form {
 	width:50%;
@@ -493,9 +461,7 @@ textarea {
 
 
 /*
-============================================================================================
-This is the CSS control for the media Queries 
-============================================================================================
+media Queries 
 */ 
 
 @media all and (min-width: 960px) {
@@ -534,9 +500,7 @@ This is the CSS control for the media Queries
 
 
 /*  
-============================================================================================
-  This is the CSS control for the media Queries on The Team Page
-============================================================================================
+ media Queries on The Team Page
 */
 
 .justify-content-center {
@@ -545,9 +509,7 @@ This is the CSS control for the media Queries
   }
 
 /* 
-============================================================================================
-This is the CSS control for The Contact Page 
-============================================================================================
+media Queries on The Contact Page 
 */ 
 
 .contactform form {
@@ -698,9 +660,7 @@ textarea {
   }
 
 /*
-============================================================================================
-This is the CSS control for the media Queries on The Team Page
-============================================================================================
+media Queries on The Team Page
 */ 
  
 .justify-content-center {
@@ -714,9 +674,7 @@ This is the CSS control for the media Queries on The Team Page
 
 
 /* 
-============================================================================================
-This is the CSS control for the media queries on The Contact Page 
-============================================================================================
+media queries on The Contact Page 
 */ 
 
 .contactform form {
