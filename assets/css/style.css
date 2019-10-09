@@ -24,11 +24,11 @@ body, html {
     }
 
 .row {
-    /* padding-right: 0px;
-    padding-left: 0px;*/
-    padding: 0;
-    margin: 0;
-     }
+  /* padding-right: 0px;
+  padding-left: 0px;*/
+  padding: 0;
+  margin: 0;
+  }
 
 
 /*
@@ -508,6 +508,11 @@ media Queries
   margin: auto;
   }
 
+.ourteam2 .col-md-4 {
+  margin-bottom: 25px;
+}
+
+
 /* 
 media Queries on The Contact Page 
 */ 
@@ -667,10 +672,10 @@ media Queries on The Team Page
   width: 100%;
   margin: auto;
   }
-
-  .ourteam2 .col-md-4 {
-    margin-bottom: 30px;
-    }
+ 
+.ourteam2 .col-md-4 {
+  margin-bottom: 30px;
+  }
 
 
 /* 
@@ -720,3 +725,19 @@ textarea {
   }
 
 }
+
+
+
+@media (min-width: 600px) and (max-width: 760px) {
+
+  .colright,
+
+  .colleft {
+
+      text-align: center;
+
+  }
+
+}
+
+

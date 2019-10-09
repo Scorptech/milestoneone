@@ -11,7 +11,7 @@ View website in GitHub Pages (https://github.com/Scorptech/MilestoneOne)
 
 The developer used W3C CSS Validation Service and W3C Markup Validation Service to check the validity of the website code.
 
-### Client Stories Testing:
+### User Stories Testing:
 
 #### Most common path through the website:
 
@@ -21,7 +21,7 @@ Each of these pages points clearly to the next one.
 
 ### The "Team" page offers information about the staff. The information here is kept short with a brief description.
 
-### Testing client stories from UX section of README.md
+### Testing user stories from UX section of README.md
 
 As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently.
 No matter what page the new visitor lands on, they can easily find and use the navigation bar.
