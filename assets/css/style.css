@@ -85,7 +85,7 @@ Nav Bar
   color: #525252;
   font-weight: 500;
   font-family: "Roboto", sans-serif;
-  padding: 20px;
+  padding: 15px 15px 5px 15px;
   }
 
 
@@ -93,9 +93,17 @@ li .nav-item:active {
   color: #ffcd00;
   }
 
+/*
 .navbar-nav li a h6:hover  {
   color: #ffcd00
   }
+*/
+
+.active a {
+  background-color: #ffcd00;
+  }
+
+
 
 /* 
 Carousel 
@@ -566,7 +574,7 @@ textarea {
  
   
 .navbar-light .navbar-nav .nav-link {
-  padding: 5px;
+  padding: 15px 15px 5px 15px;
   }
 
 .navbar {
