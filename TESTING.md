@@ -6,8 +6,8 @@ View website in GitHub Pages (https://github.com/Scorptech/MilestoneOne)
 
 ### Testing
 
-* W3C CSS validation
-* W3C Markup Validation
+* [W3C CSS validation](https://validator.w3.org/)
+* [W3C Markup Validation](https://jigsaw.w3.org/css-validator/)
 
 The developer used W3C CSS Validation Service and W3C Markup Validation Service to check the validity of the website code.
 
@@ -15,9 +15,9 @@ The developer used W3C CSS Validation Service and W3C Markup Validation Service 
 
 #### Most common path through the website:
 
-Home > The Team > Contact
+Home 
 
-Each of these pages points clearly to the next one. 
+Each menu link navigates you to each section on the same page 
 
 ### The "Team" page offers information about the staff. The information here is kept short with a brief description.
 
@@ -148,8 +148,7 @@ I viewed the website on several browsers and formatting was consistant.
 
 ### A note to my fellow Code Institute students
 
-Anna (https://github.com/AJGreaves) has done a fantastic job with her TESTING.md file and it is referred to as the "go to" file for showing the students how to "lay things out". Well as they say "Imitation is the sincerest form of flattery" so I have taken a few ideas from Anna's TESTING.md file, As it is, after all, 
-recommended on how to write it!  
+Anna (https://github.com/AJGreaves) has done a fantastic job with her TESTING.md file and it is referred to as the "go to" file for showing the students how to "lay things out". Well as they say "Imitation is the sincerest form of flattery" so I have taken a few ideas from Anna's TESTING.md file, As it is, after all, recommended on how to write it!  
 
 Namaste
 
