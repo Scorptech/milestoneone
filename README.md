@@ -192,7 +192,7 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 -   I received inspiration for this project after dealing with the family builder, Willie, when he was hired to project manage a building contract for my mother-in-law and seeing the re-development first hand. 
 
--   My mentor Simen Daehlin guided me on how to investigate and find CSS issues using the inspect tool like a detective looking for evidence! 
+-   My mentor [Simen Daehlin](https://www.github.com/Eventyret) guided me on how to investigate and find CSS issues using the inspect tool like a detective looking for evidence! 
 
 -   The inspiration for the design and some of the images came from a free Wordpress theme designed by 
     [Rocky Ahmed]http://rocky.wethemez.com.
