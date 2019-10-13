@@ -1,12 +1,6 @@
 
 <img src="assets/images/webuilder_mockup.jpg" alt="WeBuilder Website" style="float: left; margin-right: 10px;" />
 
-
-You can check out my Milestone repo at -   https://github.com/Scorptech/MilestoneOne
-
-You can check out the Milstone One project at - https://scorptech.github.io/milestoneone 
-
-
 The idea for this mock up website came about when speaking a builder that completed a number of projects for my family over the last few years.  The builders name is “Willie” and he is highly recommended by everyone as his workmanship and project management skills have always been spot on, hence why he is always in demand to a level that he would only need a website for internet presence, not for work. 
 
 After having Willie complete some work for a family member I found out that having a website for internet presence is something that he would like to do but he just does not have the time to allocate to it. So for my first milestone project, I wanted to design a mock up website for Willie so the next time I see him, I could show him.
@@ -64,20 +58,22 @@ As this website is based on the building and construction industry, the color ye
 #### Client stories
 
 1.  As a new visitor to the website, I want to easily navigate the site and feel comfortable with the builder and his commitment 
-2.  As a new visitor to the website, I want the ability to request a quote for some construction work I require. A ball park figure is all I need now, which will          determine whether I go ahead with the construction. 
-3.  As a potential client, I want the option to view the builders previous work and speak to existing customers regarding the service they received.
-6.  As an interested client, I want to understand what might be involved in a project before I make an decisions. The ability to request a quote means that I will         receive information that will give me an initial idea as to whether I can proceed with the project.
-7.  As an interested client, I want an "easy to fill" contact form, so I can make contact with the builder should I need general building information.
+2.  As a new visitor to the website, I want the ability to request a quote for some construction work I require. A ball park figure is all I        need now, which will determine whether I go ahead with the construction. 
+3.  As a potential client, I want the option to view the builders previous work and speak to existing customers regarding the service they          received.
+6.  As an interested client, I want to understand what might be involved in a project before I make an decisions. The ability to request a          quote means that I will receive information that will give me an initial idea as to whether I can proceed with the project.
+7.  As an interested client, I want an "easy to fill" contact form, so I can make contact with the builder should I need general building           information.
 8.  As an interested observer and/or potential client, I want to follow the builder on social media to keep up with his latest news.
-9.  As a returning visitor to the website, who has already decided to contact the builder using the contact form, I want to be able to find the request a quote based      on my initial enquiry.
+9.  As a returning visitor to the website, who has already decided to contact the builder using the contact form, I want to be able to find the     request a quote based on my initial enquiry.
 
 #### Wireframe mockups:
 
-* Home Page (https://github.com/Scorptech/milestoneone/blob/master/wireframes/1-home.jpg)
+* {Home Page}(https://github.com/Scorptech/milestoneone/blob/master/wireframes/1-home.jpg)
 
-* The Team Page (https://github.com/Scorptech/milestoneone/blob/master/wireframes/2-theteam.jpg)
+* [The Team Page](https://github.com/Scorptech/milestoneone/blob/master/wireframes/2-theteam.jpg)
 
-* Contact Page (https://github.com/Scorptech/milestoneone/blob/master/wireframes/3-contact.jpg)
+* [Contact Page](https://github.com/Scorptech/milestoneone/blob/master/wireframes/3-contact.jpg)
+
+After having my site peer reviewed and talking to my mentor, I decided to merge the three pages into one page. 
 
 
 ## Features
@@ -129,24 +125,24 @@ Allows potential clients to ask questions, and/or make the first step with their
 
 ### Features to Implement in future
 
--   GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal data. Ensures the business                complies with the EU data protection law. - Javascript Needed
+-   GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal data. Ensures the     business complies with the EU data protection law. - Javascript Needed
 -   Add CAPTCHA to contact form - Allows business to protect the contact form from spam. - Javascript Needed
 -   contact form Send button change from _Send_ to _Processing_ and then when complete changes to _Sent_. - Javascript Needed
--   FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential customers easy to find answers to their common questions. - Javascript             Needed for dropdown functionality. Simple FAQ page could be implemented now.
+-   FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential customers easy to find answers to their common questions. -   Javascript Needed for dropdown functionality. Simple FAQ page could be implemented now.
 
 ## Technologies Used
 
--   This project uses HTML and CSS programming languages.
+-   This project uses HTML and CSS.
 
 -   [Visual Studio Code](https://code.visualstudio.com/) - This developer used **Visual Studio Code** for their IDE while building the website.
 
--   [BootstrapCDN](https://www.bootstrapcdn.com/) The project uses **Bootstrap4** to simplify the structure of the website and make the website responsive easily.
+-   [Bootstrap](https://www.bootstrapcdn.com/) The project uses **Bootstrap** to simplify the structure of the website and make the website         responsive easily.
 
--   The project also uses BootstrapCDN to provide icons from [FontAwesome](https://www.bootstrapcdn.com/fontawesome/)
+-   The project also uses Bootstrap to provide icons from [FontAwesome](https://fontawesome.com/)
 
--   The project uses **Google fonts** to style the website fonts.
+-   The project uses [Google fonts](https://fonts.google.com/) to style the website fonts.
 
--   The code was validated using the (https://www.w3.org/) website  
+-   The code was validated using the [www.w3.org](https://www.w3.org/) website  
 
 
 ## Testing
@@ -155,8 +151,6 @@ Testing information can be found in a separate Testing file (https://github.com/
 
 
 ## Deployment
-
-This project was developed using [Visual Studio Code IDE (https://https://code.visualstudio.com), committed to git and pushed to GitHub using the github windows desktop version for visual studio code.
 
 To deploy this page to GitHub Pages from its [GitHub repository](https://scorptech.github.io/milestoneone/), the following steps were taken:
 
@@ -175,11 +169,11 @@ To clone this project from GitHub:
 1.  Follow this link to the [Project GitHub repository](https://scorptech.github.io/milestoneone).
 2.  Under the repository name, click "Clone or download".
 3.  In the Clone with HTTPs section, copy the clone URL for the repository.
-4.  In your local IDE open Git Bash.
+4.  In your local IDE open your terminal.
 5.  Change the current working directory to the location where you want the cloned directory to be made.
 6.  Type `git clone`, and then paste the URL you copied in Step 3.
 
-git clone https://github.com/USERNAME/REPOSITORY
+git clone [https://scorptech.github.io/milestoneone]https://github.com/USERNAME/REPOSITORY
 
 7.  Press Enter. Your local clone will be created.
 
@@ -189,11 +183,6 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 -   The text for the Home page and the team page was created for Alan Maher by (www.linkedin.com/in/alanjmaher).
 -   The text for the rest of the website was created by Alan Maher and proof-read/edited(www.linkedin.com/in/alanjmaher).
-
-### Media
-
--   All the images used in this site were obtained from a free Wordpress website theme by 
-    Rocky Ahmed http://rocky.wethemez.com. 
 
 ### Code
 
@@ -206,7 +195,7 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 -   My mentor Simen Daehlin guided me on how to investigate and find CSS issues using the inspect tool like a detective looking for evidence! 
 
 -   The inspiration for the design and some of the images came from a free Wordpress theme designed by 
-    Rocky Ahmed http://rocky.wethemez.com.
+    [Rocky Ahmed]http://rocky.wethemez.com.
 
 -   Bootstap and CSS Coding ideas came from https://mdbootstrap.com
 
