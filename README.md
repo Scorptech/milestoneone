@@ -106,7 +106,7 @@ The Contact page features a **contact form**, which requests client name and ema
 -   Header Navigation Bar - Exists on every page [Navigation Bar](https://scorptech.github.io/milestoneone/index.html) 
     and allows all users to easily navigate all the website's pages and find what they are looking for quickly.
 
--   Footer Copyright Info - Exists on every page [Copyright](https://scorptech.github.io/milestoneone/index.html/
+-   Footer Copyright Info - Exists on every page [Copyright](https://scorptech.github.io/milestoneone/index.html/)
     Protects business copyright.
 
 -   Footer Social Icons - Exist on every page [Social Icons](https://scorptech.github.io/milestoneone/index.html)
