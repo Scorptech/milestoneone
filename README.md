@@ -129,11 +129,11 @@ The Contact page features a **contact form**, which requests client name and ema
 
 - HTML
 - CSS
-- jQuery
-- Font Awesome
-- Bootstrap
-- Google Fonts
-- popperJS
+- [jQuery](https://code.jquery.com)
+- [Font Awesome](https://fontawesome.com)
+- [Bootstrap](https://www.getbootstrap.com)
+- [Google Fonts](https://fonts.google.com)
+- [Popper.js](https://popper.js.org)
 
 ## Testing
 
@@ -163,7 +163,7 @@ To clone this project from GitHub:
 5.  Change the current working directory to the location where you want the cloned directory to be made.
 6.  Type `git clone`, and then paste the URL you copied in Step 3.
 
-[git clone repo](https://github.com/Scorptech/milestoneone)
+git clone repo ```https://github.com/Scorptech/milestoneone.git```
 
 7.  Press Enter. Your local clone will be created.
 
