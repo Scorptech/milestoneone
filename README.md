@@ -100,26 +100,26 @@ The Contact page features a **contact form**, which requests client name and ema
 
 ### Existing Features
 
--   Header Logo - Exists on every page (https://scorptech.github.io/milestoneone/index.html). 
-Clicking the logo returns the user to the home page as they would expect.
+-   Header Logo - Exists on every page [Header Logo](https://scorptech.github.io/milestoneone/index.html). 
+    Clicking the logo returns the user to the home page as they would expect.
 
--   Header Navigation Bar - Exists on every page (https://scorptech.github.io/milestoneone/index.html) 
-and allows all users to easily navigate all the website's pages and find what they are looking for quickly.
+-   Header Navigation Bar - Exists on every page [Navigation Bar](https://scorptech.github.io/milestoneone/index.html) 
+    and allows all users to easily navigate all the website's pages and find what they are looking for quickly.
 
--   Footer Copyright Info - Exists on every page (https://scorptech.github.io/milestoneone/index.html/
-Protects business copyright.
+-   Footer Copyright Info - Exists on every page [Copyright](https://scorptech.github.io/milestoneone/index.html/
+    Protects business copyright.
 
--   Footer Social Icons - Exist on every page (https://scorptech.github.io/milestoneone/index.html)
-and allows all users to access the social platforms that the artist uses.
+-   Footer Social Icons - Exist on every page [Social Icons](https://scorptech.github.io/milestoneone/index.html)
+    and allows all users to access the social platforms that the artist uses.
 
--   Request A Quote button - Exist on every page (https://scorptech.github.io/milestoneone/index.html)
-which enables the customer to request a quote for work that they need carrying out.
+-   Request A Quote button - Exist on every page [Request A Quote](https://scorptech.github.io/milestoneone/index.html)
+    which enables the customer to request a quote for work that they need carrying out.
 
--   [The Team] (https://scorptech.github.io/milestoneone/theteam.html) 
-Allows potential clients to see the staff and who is involved in the company.
+-   [The Team](https://scorptech.github.io/milestoneone/index.html) 
+    Allows potential clients to see the staff and who is involved in the company.
 
--   [Contact Form] (https://scorptech.github.io/milestoneone/theteam.html) 
-Allows potential clients to ask questions, and/or make the first step with their queries.
+-   [Contact Form](https://scorptech.github.io/milestoneone/index.html) 
+    Allows potential clients to ask questions, and/or make the first step with their queries.
 
 
 
@@ -187,7 +187,7 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 -   Some of the CSS code was taken from the https://getbootstrap.com/ 
 
-### Acknowledgements
+### Acknowledgements/Credits
 
 -   I received inspiration for this project after dealing with the family builder, Willie, when he was hired to project manage a building contract for my mother-in-law and seeing the re-development first hand. 
 
