@@ -173,7 +173,7 @@ To clone this project from GitHub:
 5.  Change the current working directory to the location where you want the cloned directory to be made.
 6.  Type `git clone`, and then paste the URL you copied in Step 3.
 
-git clone [https://scorptech.github.io/milestoneone]https://github.com/USERNAME/REPOSITORY
+git clone [https://scorptech.github.io/milestoneone](https://github.com/USERNAME/REPOSITORY)
 
 7.  Press Enter. Your local clone will be created.
 
@@ -181,8 +181,7 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 ### Content
 
--   The text for the Home page and the team page was created for Alan Maher by (www.linkedin.com/in/alanjmaher).
--   The text for the rest of the website was created by Alan Maher and proof-read/edited(www.linkedin.com/in/alanjmaher).
+-   The text for the website was created and proof-read/edited by [Alan Maher](www.linkedin.com/in/alanjmaher).
 
 ### Code
 
