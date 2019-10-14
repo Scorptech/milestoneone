@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700');
 
-/*==============================================
+/*====================================
 @Author: Alan Maher
 @URL: https://scorptech.github.io/milestoneone/
 Author E-mail: info@crossakiel.com
-=================================================*/
+======================================*/
 
 body, html {
     margin: 0;
@@ -24,16 +24,12 @@ body, html {
     }
 
 .row {
-  /* padding-right: 0px;
-  padding-left: 0px;*/
   padding: 0;
   margin: 0;
   }
 
 
-/*
-Top Bar 
-*/ 
+/* Top Bar */ 
 
 
 .topbar {
@@ -75,11 +71,9 @@ Top Bar
 
 .social-links li a i:hover {
    background: #ffcd00;
-   }
+   } 
 
-/* 
-Nav Bar 
-*/ 
+/* Nav Bar */ 
 
 .navbar-light .navbar-nav .nav-link {
   color: #525252;
@@ -93,26 +87,16 @@ li .nav-item:active {
   color: #ffcd00;
   }
 
-/*
 .navbar-nav li a h6:hover  {
-  color: #ffcd00
-  }
-*/
-
-.active a {
-  background-color: #ffcd00;
-  }
+    color: #ffcd00
+ }
 
 
-
-/* 
-Carousel 
-
-*/ 
+/* Carousel */ 
 
 .carousel-caption .innovate h1 {
   color: #ffcd00;
-  font-weight: bold;
+  font-weight: 600;
   text-align:center;
   font-size: 60px;
   }
@@ -135,12 +119,10 @@ Carousel
   }
 
 
-/*
- "Request A Quote" button 
-*/ 
+/*  "Request A Quote" button */ 
 
 .btn--cta {
-  font-weight: bold;
+  font-weight: 600;
   border-radius: 23px;
   width: 200px;
   }
@@ -163,9 +145,7 @@ Carousel
   }
 
 
-/* 
-Who We Are 
-*/ 
+/* Who We Are */ 
 
 .whoarewe {
   margin-top: 30px;
@@ -208,9 +188,7 @@ Who We Are
   }
 
 
-/* 
- Let Us Help You
-*/
+/*  Let Us Help You */
 
 .jumbotron {
   height: 50vh;
@@ -232,7 +210,7 @@ Who We Are
 
 .jumbotron h1 {
   color: #ffcd00;
-  font-weight: bold;
+  font-weight: 600;
   font-size: 60px;
   }
 
@@ -248,12 +226,7 @@ Who We Are
     padding-left: 0;
 }
 
-
-
-
-/* 
-Banner Advert
-*/
+/* Banner Advert */
 
 .banner-advert {
   Background-color: #525252;
@@ -267,9 +240,7 @@ Banner Advert
   margin-top: 0;
   }
 
-/*
-Yellow Bar 
-*/  
+/* Yellow Bar */  
 
 
 .yellowbar {
@@ -283,6 +254,7 @@ Yellow Bar
   font-size: 20px;
   } 
 
+
 .yellowbar .img-fluid {
   max-width: 90%;
   height: auto;
@@ -291,13 +263,11 @@ Yellow Bar
   margin-bottom: 10px;
   } 
 
-.copyright .col {
-  background-color: #fff; 
+#copyright {
+  margin-top: 20px; 
   }
 
-/*
-Footer 
-*/  
+/* Footer */  
 
 .footer {
     background-color: #31353d;
@@ -328,7 +298,7 @@ Footer
   a:link {
     color: #fff;
     font-family: "Roboto", sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 300;
     }
   
@@ -341,9 +311,7 @@ Footer
     }
 
 
-/* 
-The Team 
-*/ 
+/* The Team */ 
 
 .card .shadow {
   width: 20rem;
@@ -414,14 +382,12 @@ a {
    margin-top: 25px; 
    }
 
-.ourteam2 {
-  Margin-bottom: 25px;
-   }
+.card-name {
+  color: #000000;
+}   
 
 
-/* 
-Contact Page 
-*/
+/* Contact Page */
 
 .contactform form {
 	width:50%;
@@ -465,12 +431,7 @@ textarea {
   font-weight: 400;
   }
 
-
-
-
-/*
-media Queries 
-*/ 
+/* media Queries */ 
 
 @media all and (min-width: 960px) {
 
@@ -506,10 +467,7 @@ media Queries
     }
 
 
-
-/*  
- media Queries on The Team Page
-*/
+/*  media Queries on The Team Page */
 
 .justify-content-center {
   width: 100%;
@@ -521,9 +479,7 @@ media Queries
 }
 
 
-/* 
-media Queries on The Contact Page 
-*/ 
+/* media Queries on The Contact Page */ 
 
 .contactform form {
 	width:80%;
@@ -583,7 +539,7 @@ textarea {
 
 .carousel-caption .innovate h1 {
   color: #ffcd00;
-  font-weight: bold;
+  font-weight: 600;
   text-align:center;
   font-size: 30px;
   }
@@ -608,13 +564,13 @@ textarea {
   
 .jumbotron h2 {
   color: white;
-  font-weight: bold;
+  font-weight: 600;
   font-size: 15px;
   }
   
 .jumbotron h1 {
   color: #ffcd00;
-  font-weight: bold;
+  font-weight: 600;
   font-size: 30px;
   }
 
@@ -672,23 +628,19 @@ textarea {
   margin-top: 0px;
   }
 
-/*
-media Queries on The Team Page
-*/ 
+/* media Queries on The Team Page */ 
  
 .justify-content-center {
   width: 100%;
   margin: auto;
   }
  
-.ourteam2 .col-md-4 {
+.ourteam .col-md-4 {
   margin-bottom: 30px;
   }
 
 
-/* 
-media queries on The Contact Page 
-*/ 
+/* media queries on The Contact Page */ 
 
 .contactform form {
 	width:80%;
@@ -733,7 +685,6 @@ textarea {
   }
 
 }
-
 
 
 @media (min-width: 600px) and (max-width: 760px) {
