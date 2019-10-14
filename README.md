@@ -110,11 +110,9 @@ The Contact page features a **contact form**, which requests client name and ema
 
 -   Request A Quote button - which enables the customer to request a quote for work that they need carrying out.
 
--   [The Team](https://scorptech.github.io/milestoneone/index.html) 
-    Allows potential clients to see the staff and who is involved in the company.
+-   The Team - Allows potential clients to see the staff and who is involved in the company.
 
--   [Contact Form](https://scorptech.github.io/milestoneone/index.html) 
-    Allows potential clients to ask questions, and/or make the first step with their queries.
+-   Contact Form - Allows potential clients to ask questions, and/or make the first step with their queries.
 
 
 
