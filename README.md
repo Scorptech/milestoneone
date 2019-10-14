@@ -125,10 +125,10 @@ Allows potential clients to ask questions, and/or make the first step with their
 
 ### Features to Implement in future
 
--   GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal data. Ensures the     business complies with the EU data protection law. - Javascript Needed
+-   GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal data. Ensures the     business complies         with the EU data protection law. - Javascript Needed
 -   Add CAPTCHA to contact form - Allows business to protect the contact form from spam. - Javascript Needed
 -   contact form Send button change from _Send_ to _Processing_ and then when complete changes to _Sent_. - Javascript Needed
--   FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential customers easy to find answers to their common questions. -   Javascript Needed for dropdown functionality. Simple FAQ page could be implemented now.
+-   FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential customers easy to find answers to their common questions. -   Javascript Needed for      dropdown functionality. Simple FAQ page could be implemented now.
 
 ## Technologies Used
 
@@ -136,7 +136,7 @@ Allows potential clients to ask questions, and/or make the first step with their
 
 -   [Visual Studio Code](https://code.visualstudio.com/) - This developer used **Visual Studio Code** for their IDE while building the website.
 
--   [Bootstrap](https://www.bootstrapcdn.com/) The project uses **Bootstrap** to simplify the structure of the website and make the website         responsive easily.
+-   [Bootstrap](https://www.bootstrapcdn.com/) The project uses **Bootstrap** to simplify the structure of the website and make the website responsive easily.
 
 -   The project also uses Bootstrap to provide icons from [FontAwesome](https://fontawesome.com/)
 
