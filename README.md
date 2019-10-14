@@ -196,7 +196,7 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 -   The inspiration for the design and some of the images came from a free Wordpress theme designed by 
     [Rocky Ahmed](http://rocky.wethemez.com).
 
--   Bootstap and CSS Coding ideas came from Get [Bootstrap](https://mdbootstrap.com)
+-   Bootstap and CSS Coding ideas came from [Get Bootstrap](https://mdbootstrap.com)
 
 #### Disclaimer
 
