@@ -161,7 +161,10 @@ To deploy this page to GitHub Pages from its [GitHub repository](https://scorpte
 
 To clone this project from GitHub:
 
-1.  Follow this link to the [Project GitHub repository](https://github.com/Scorptech/milestoneone).
+1.  Follow this link to the [Project GitHub repository]
+???
+git clone https://github.com/Scorptech/milestoneone.git
+???
 2.  Under the repository name, click "Clone or download".
 3.  In the Clone with HTTPs section, copy the clone URL for the repository.
 4.  In your local IDE open your terminal.
@@ -174,14 +177,6 @@ To clone this project from GitHub:
 
 Further reading and troubleshooting on cloning a repository from GitHub [here](https://help.github.com/en/articles/cloning-a-repository).
 
-### Content
-
--   The text for the website was created and proof-read/edited by [Alan Maher](www.linkedin.com/in/alanjmaher).
-
-### Code
-
--   Some of the CSS code was taken from [Get Bootstrap](https://getbootstrap.com/). 
-
 ### Acknowledgements/Credits
 
 -   I received inspiration for this project after dealing with the family builder, Willie, when he was hired to project manage a building contract for my mother-in-law       and seeing the re-development first hand. 
@@ -192,6 +187,11 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
     [Rocky Ahmed](http://rocky.wethemez.com).
 
 -   Bootstap and CSS Coding ideas came from [MD Bootstrap](https://mdbootstrap.com)
+
+### Content
+
+-   The text for the website was created and proof-read/edited by [Alan Maher](www.linkedin.com/in/alanjmaher).
+
 
 #### Disclaimer
 
