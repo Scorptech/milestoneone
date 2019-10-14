@@ -161,10 +161,7 @@ To deploy this page to GitHub Pages from its [GitHub repository](https://scorpte
 
 To clone this project from GitHub:
 
-1.  Follow this link to the [Project GitHub repository]
-???
-git clone https://github.com/Scorptech/milestoneone.git
-???
+1.  Follow this link to the [Project GitHub repository](https://github.com/Scorptech/milestoneone.git)
 2.  Under the repository name, click "Clone or download".
 3.  In the Clone with HTTPs section, copy the clone URL for the repository.
 4.  In your local IDE open your terminal.
