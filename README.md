@@ -100,20 +100,15 @@ The Contact page features a **contact form**, which requests client name and ema
 
 ### Existing Features
 
--   Header Logo - Exists on every page [Header Logo](https://scorptech.github.io/milestoneone/index.html). 
-    Clicking the logo returns the user to the home page as they would expect.
+-   Header Logo - Clicking the logo returns the user to the home page as they would expect.
 
--   Header Navigation Bar - Exists on every page [Navigation Bar](https://scorptech.github.io/milestoneone/index.html) 
-    and allows all users to easily navigate all the website's pages and find what they are looking for quickly.
+-   Header Navigation Bar - Allows all users to easily navigate all the website's pages and find what they are looking for quickly.
 
--   Footer Copyright Info - Exists on every page [Copyright](https://scorptech.github.io/milestoneone/index.html/)
-    Protects business copyright.
+-   Footer Copyright Info - Protects business copyright.
 
--   Footer Social Icons - Exist on every page [Social Icons](https://scorptech.github.io/milestoneone/index.html)
-    and allows all users to access the social platforms that the artist uses.
+-   Footer Social Icons - Allows all users to access the social platforms that the artist uses.
 
--   Request A Quote button - Exist on every page [Request A Quote](https://scorptech.github.io/milestoneone/index.html)
-    which enables the customer to request a quote for work that they need carrying out.
+-   Request A Quote button - which enables the customer to request a quote for work that they need carrying out.
 
 -   [The Team](https://scorptech.github.io/milestoneone/index.html) 
     Allows potential clients to see the staff and who is involved in the company.
