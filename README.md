@@ -185,7 +185,7 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 ### Code
 
--   Some of the CSS code was taken from the [Get Bootstrap](https://getbootstrap.com/). 
+-   Some of the CSS code was taken from [Get Bootstrap](https://getbootstrap.com/). 
 
 ### Acknowledgements/Credits
 
