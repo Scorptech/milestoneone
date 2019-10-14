@@ -58,12 +58,12 @@ As this website is based on the building and construction industry, the color ye
 #### Client stories
 
 1.  As a new visitor to the website, I want to easily navigate the site and feel comfortable with the builder and his commitment 
-2.  As a new visitor to the website, I want the ability to request a quote for some construction work I require. A ball park figure is all I        need now, which will determine whether I go ahead with the construction. 
-3.  As a potential client, I want the option to view the builders previous work and speak to existing customers regarding the service they          received.
-6.  As an interested client, I want to understand what might be involved in a project before I make an decisions. The ability to request a          quote means that I will receive information that will give me an initial idea as to whether I can proceed with the project.
-7.  As an interested client, I want an "easy to fill" contact form, so I can make contact with the builder should I need general building           information.
+2.  As a new visitor to the website, I want the ability to request a quote for some construction work I require. A ball park figure is all I need now, which will             determine whether I go ahead with the construction. 
+3.  As a potential client, I want the option to view the builders previous work and speak to existing customers regarding the service they received.
+6.  As an interested client, I want to understand what might be involved in a project before I make an decisions. The ability to request a quote means that I will            receive information that will give me an initial idea as to whether I can proceed with the project.
+7.  As an interested client, I want an "easy to fill" contact form, so I can make contact with the builder should I need general building information.
 8.  As an interested observer and/or potential client, I want to follow the builder on social media to keep up with his latest news.
-9.  As a returning visitor to the website, who has already decided to contact the builder using the contact form, I want to be able to find the     request a quote based on my initial enquiry.
+9.  As a returning visitor to the website, who has already decided to contact the builder using the contact form, I want to be able to find the request a quote based on      my initial enquiry.
 
 #### Wireframe mockups:
 
@@ -134,20 +134,20 @@ Allows potential clients to ask questions, and/or make the first step with their
 
 -   This project uses HTML and CSS.
 
--   [Visual Studio Code](https://code.visualstudio.com/) - This developer used **Visual Studio Code** for their IDE while building the website.
+-   [Visual Studio Code](https://code.visualstudio.com/) 
 
--   [Bootstrap](https://www.bootstrapcdn.com/) The project uses **Bootstrap** to simplify the structure of the website and make the website responsive easily.
+-   [Bootstrap](https://https://getbootstrap.com/) 
 
 -   The project also uses Bootstrap to provide icons from [FontAwesome](https://fontawesome.com/)
 
--   The project uses [Google fonts](https://fonts.google.com/) to style the website fonts.
+-   The project uses [Google fonts](https://fonts.google.com/) 
 
--   The code was validated using the [www.w3.org](https://www.w3.org/) website  
+-   The code was validated using [www.w3.org](https://www.w3.org/) 
 
 
 ## Testing
 
-Testing information can be found in a separate Testing file (https://github.com/Scorptech/milestoneone/blob/master/TESTING.md)
+Testing information can be found in a separate [Testing file](https://github.com/Scorptech/milestoneone/blob/master/TESTING.md)
 
 
 ## Deployment
