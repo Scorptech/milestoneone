@@ -148,7 +148,7 @@ I viewed the website on several browsers and formatting was consistant.
 
 ### A note to my fellow Code Institute students
 
-Anna (https://github.com/AJGreaves) has done a fantastic job with her TESTING.md file and it is referred to as the "go to" file for showing the students how to "lay things out". Well as they say "Imitation is the sincerest form of flattery" so I have taken a few ideas from Anna's TESTING.md file, As it is, after all, recommended on how to write it!  
+[Anna](https://github.com/AJGreaves) has done a fantastic job with her TESTING.md file and it is referred to as the "go to" file for showing the students how to "lay things out". Well as they say "Imitation is the sincerest form of flattery" so I have taken a few ideas from Anna's TESTING.md file, As it is, after all, recommended on how to write it!  
 
 Namaste
 
