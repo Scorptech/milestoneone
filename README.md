@@ -132,18 +132,13 @@ The Contact page features a **contact form**, which requests client name and ema
 
 ## Technologies Used
 
--   This project uses HTML and CSS.
-
--   [Visual Studio Code](https://code.visualstudio.com/) 
-
--   [Bootstrap](https://https://getbootstrap.com/) 
-
--   The project also uses Bootstrap to provide icons from [FontAwesome](https://fontawesome.com/)
-
--   The project uses [Google fonts](https://fonts.google.com/) 
-
--   The code was validated using [www.w3.org](https://www.w3.org/) 
-
+- HTML
+- CSS
+- jQuery
+- Font Awesome
+- Bootstrap
+- Google Fonts
+- popperJS
 
 ## Testing
 
